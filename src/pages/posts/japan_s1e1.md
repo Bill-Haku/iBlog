@@ -8,7 +8,7 @@ cover:
     url: 'https://blog.hakubill.tech/img/jp/_DSC0093.heic'
     square: 'https://blog.hakubill.tech/img/jp/_DSC0093.heic'
     alt: 'cover'
-tags: ["日本", "杂谈", "旅游", "飞行"]
+tags: ["日本", "回乡记", "杂谈", "旅游", "飞行"]
 theme: 'light'
 featured: true
 ---
@@ -79,9 +79,8 @@ featured: true
 
 成都到上海的旅程一切顺利。最后，我到达上海虹桥国际机场2号航站楼。再次经过熟悉的北彩虹桥，然后去坐10号线地铁前往T1航站楼。下一集，我本次回日本的旅程将正式开始。
 
-```
-本集行程：
-- MU5402 CTU-SHA 0752-1010 A350-900 B-324W 2h18m 1782km
-```
+> 本集行程：
+>
+> - MU5402 CTU-SHA 0752-1010 A350-900 B-324W 2h18m 1782km
 
 ![漂亮的A359的RR发动机](https://blog.hakubill.tech/img/jp/_DSC0129.heic)
