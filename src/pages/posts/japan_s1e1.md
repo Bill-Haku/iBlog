@@ -1,8 +1,8 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '回乡记S1E1-东航A350商务舱体验'
+title: '【回乡记】东航A350商务舱体验'
 pubDate: 2023-10-28
-description: '这次的回乡之旅，从东航A350的商务舱开始'
+description: '【回乡记S1E1】这次的回乡之旅，从东航A350的商务舱开始'
 author: 'Bill Haku'
 cover:
     url: 'https://blog.hakubill.tech/img/jp/_DSC0093.heic'
@@ -77,6 +77,11 @@ featured: true
 
 快到的时候，太阳光正好反射在A350-900的罗罗Trent XWB发动机的内壁上，看起来特别漂亮。只有坐在前舱才能看到这个景色。
 
-![漂亮的A359的RR发动机](https://blog.hakubill.tech/img/jp/_DSC0129.heic)
+成都到上海的旅程一切顺利。最后，我到达上海虹桥国际机场2号航站楼。再次经过熟悉的北彩虹桥，然后去坐10号线地铁前往T1航站楼。下一集，我本次回日本的旅程将正式开始。
 
-最后，我到达上海虹桥国际机场2号航站楼。再次经过熟悉的北彩虹桥，然后去坐10号线地铁前往T1航站楼。下一集，我本次回日本的旅程将正式开始。
+```
+本集行程：
+- MU5402 CTU-SHA 0752-1010 A350-900 B-324W 2h18m 1782km
+```
+
+![漂亮的A359的RR发动机](https://blog.hakubill.tech/img/jp/_DSC0129.heic)
