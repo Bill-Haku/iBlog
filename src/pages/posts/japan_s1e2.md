@@ -1,8 +1,8 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '【回乡记S2E2】到达东京'
+title: '【回乡记S1E2】到达东京'
 pubDate: 2023-10-28
-description: '从东京开始，从东京结束——虽然第二天就飞大阪'
+description: '从东京开始，到东京结束——虽然第二天就飞大阪'
 author: 'Bill Haku'
 cover:
     url: 'https://blog.hakubill.tech/img/jp/_DSC0211.heic'

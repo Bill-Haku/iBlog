@@ -5,7 +5,7 @@ export async function get() {
     title: "Bill Haku's Blog",
     description: "Collection of Bill Haku's blogs",
     site: 'https://blog.hakubill.tech',
-    items: await pagesGlobToRssItems(import.meta.glob('./**/*.md')),
+    items: await pagesGlobToRssItems(import.meta.glob('./posts/*.md')),
     customData: `<language>zh-cn</language>`,
   });
 }
