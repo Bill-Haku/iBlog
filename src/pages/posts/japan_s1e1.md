@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '【回乡记S1E1】东航A350商务舱体验'
+title: '[回乡记S1E1]东航A350商务舱体验'
 pubDate: 2023-10-27
 description: '这次的回乡之旅，从东航A350的商务舱开始'
 author: 'Bill Haku'
