@@ -25,7 +25,7 @@ featured: true
 
 日本的国内线的安检非常简单。你不需要取出充电宝、手机、雨伞等，也不需要脱掉大衣， **甚至。你可以携带液体通过安检！** 于是我就第一次带了一瓶水通过了机场的安检。此外，虽然有设置安检门，不过工作人员也没有对我进行任何检查，直接通过即可。这简直是我通过的最顺利的机场安检。全程我做的只有从安检传送带下面取出一个篮子，把我背的书包和相机包放进去然后走过去就好了。因为大家通过的效率都很高，所以也没有排队，通畅到不适应。
 
-通过安检之后，边前往登机口找个位置坐下休息。在航站楼里面，也有一小片布置着绿植的景观休息区~~，虽然完全比不上新加坡樟宜国际机场的星耀樟宜就是了~~。候机区我看到还有卖空弁的店，估计应该是跟在电车上吃的駅弁是类似的东西，不过我没有买。
+通过安检之后，边前往登机口找个位置坐下休息。在航站楼里面，也有一小片布置着绿植的景观休息区 ~~，虽然完全比不上新加坡樟宜国际机场的星耀樟宜就是了~~ 。候机区我看到还有卖「空弁」的店，估计应该是跟在电车上吃的「駅弁」是类似的东西，不过我没有买。
 
 ![羽田机场1号航站楼的绿植景观休息区|inline](https://blog.hakubill.tech/img/jp/IMG_9887.heic)
 
@@ -52,6 +52,8 @@ JAL和ANA对于日本的国内线似乎尽管是经济舱也会提供免费的Wi
 ![JA614J迪士尼彩绘的搭乗証明書](https://blog.hakubill.tech/img/jp/IMG_9898.heic)
 
 伊丹机场才用了出发到达混流的设计。我直接就在机场内的饭馆吃了一碗拉面。除了饭店，也有购物的商店，又跟大兴机场一样看上去像一个商场。我点了一份拉面和饺子的套餐。在中国，拉面是主食、饺子是主食、米饭也是主食。但是在日本，拉面和饺子都可以是米饭的配菜。但是其实，（似乎是在关西，）米饭也可以是配菜。有歌为证：[来自「放課後ティータイム」的「ごはんはおかず」（米饭是配菜）](https://www.youtube.com/watch?v=yhYaa7YAFDs)。
+
+<iframe width="653" height="367" src="https://www.youtube.com/embed/yhYaa7YAFDs?si=VrhUMqcyFqU0YEYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![伊丹机场航站楼内和拉面](https://blog.hakubill.tech/img/jp/IMG_9900.heic)
 

@@ -70,6 +70,14 @@ figcaption {
   font-style: normal
 }
 
+.component-content.code {
+  border-style: solid;
+  border-radius: 15px;
+  padding: 10px;
+  border-color: gray;
+  border-width: 2px;
+}
+
 fieldset,
 iframe {
   border: 0
