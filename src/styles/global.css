@@ -5625,14 +5625,26 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
   width: 653px
 }
 
+.footnotes {
+  margin-left: auto;
+  margin-right: auto;
+  width: 653px
+}
+
 @media only screen and (max-width: 1068px) {
   .component-content {
+    width: 576px
+  }
+  .footnotes {
     width: 576px
   }
 }
 
 @media only screen and (max-width: 734px) {
   .component-content {
+    width: 87.5%
+  }
+  .footnotes {
     width: 87.5%
   }
 }
