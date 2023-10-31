@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '[回乡记S1E3]日航国内线B767体验'
+title: '日航国内线B767体验[回乡记S1E3]'
 pubDate: 2023-10-29
 description: '体验中国已经体验不到的B767航班'
 author: 'Bill Haku'
