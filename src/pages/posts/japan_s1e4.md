@@ -79,7 +79,7 @@ featured: true
 
 此外，在一家商场底部，还看到了推しの子的联动咖啡厅的牌子。不过受限于时间我也没上去看看。
 
-![推しの子联动咖啡厅|inline](https://blog.hakubill.tech/img/jp/_DSC0259.heic)
+![推しの子联动咖啡厅|inline](https://blog.hakubill.tech/img/jp/_DSC0249.heic)
 
 虽然我在这里不吝笔墨多次赞赏了我的日本同胞的高素质，不过我还是认为这种在自行车禁止停放区域的牌子下面停自行车的行为很值得拿出来说道说道。大阪人也有他们独有的叛逆。
 
