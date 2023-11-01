@@ -11,6 +11,7 @@ cover:
 tags: ["日本", "回乡记", "杂谈", "旅游", "飞行"]
 theme: 'light'
 featured: true
+published: true
 ---
 
 # 一路上的机票
