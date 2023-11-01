@@ -9,7 +9,7 @@ cover:
     square: 'https://blog.hakubill.tech/img/jp/_DSC0238.heic'
     alt: 'cover'
 tags: ["日本", "回乡记", "杂谈", "旅游"]
-theme: 'dark'
+theme: 'light'
 featured: true
 ---
 
@@ -51,7 +51,7 @@ featured: true
 
 最后吃完饭，我跟たお拿出手机，把Twitter的Profile页面摆在一起，拍了一张赛博合照，留作纪念。
 
-![[我](https://twitter.com/Haku_Bill)与[たお](https://twitter.com/taotao_hoyo)的合照](https://blog.hakubill.tech/img/jp/IMG_9910.heic)
+![[我](https://twitter.com/Haku_Bill)与[たお](https://twitter.com/taotao_hoyo)的合照](https://blog.hakubill.tech/img/jp/_DSC0226.heic)
 
 吃完饭，正好天就黑了。在附近随便逛逛，中途也还途经了一个电器城，进去看了看日本的电子数码产品，其中Google的柜台还不小，第一次把玩了一下Pixel系列。中国的手机平台则主要是小米和OPPO。
 
