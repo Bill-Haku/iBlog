@@ -13,7 +13,7 @@ theme: 'light'
 featured: true
 ---
 
-# 上任——大阪！
+# 大阪——启动！
 
 大阪，或者说日本的天气和空气都是真的好。直到此时我才意识到。海洋国家果然与我长期所处的大陆不一样。请看这张我在离开伊丹机场航站楼后在天桥上随手拍下的照片：天高云淡，空气清新，阳光明媚。路面干净，整洁有序。
 
@@ -73,7 +73,7 @@ featured: true
 
 ![灯火通明。照片底部是大家都在围观一场魔术表演。](https://blog.hakubill.tech/img/jp/_DSC0244.heic)
 
-我们一路向北走，最终来到了[Apple 心斎橋](https://www.apple.com/jp/retail/shinsaibashi/)。这是Apple在大阪唯一的一家Apple Store零售店。不过今天我们并没有走进去看看。
+我们一路向北走，最终来到了[Apple 心斎橋](https://www.apple.com/jp/retail/shinsaibashi/)的斜对面。这是Apple在大阪唯一的一家Apple Store零售店。不过今天我们并没有走进去看看。心斋桥也属于是一片地区的地名，不过我问たお这附近是否确实有座叫做心斎橋的橋，他思考了一会之后回答我：“不知道。”（笑）
 
 ![Apple 心斎橋。入口左侧上二楼的楼梯及二楼正在封闭维修。](https://blog.hakubill.tech/img/jp/_DSC0248.heic)
 
