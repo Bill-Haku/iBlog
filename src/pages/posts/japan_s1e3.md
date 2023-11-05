@@ -54,7 +54,7 @@ JAL和ANA对于日本的国内线似乎尽管是经济舱也会提供免费的Wi
 
 伊丹机场才用了出发到达混流的设计。我直接就在机场内的饭馆吃了一碗拉面。除了饭店，也有购物的商店，又跟大兴机场一样看上去像一个商场。我点了一份拉面和饺子的套餐。在中国，拉面是主食、饺子是主食、米饭也是主食。但是在日本，拉面和饺子都可以是米饭的配菜。但是其实，（似乎是在关西，）米饭也可以是配菜。有歌为证：[来自「放課後ティータイム」的「ごはんはおかず」（米饭是配菜）](https://www.youtube.com/watch?v=yhYaa7YAFDs)。
 
-<iframe width="653" height="367" src="https://www.youtube.com/embed/yhYaa7YAFDs?si=VrhUMqcyFqU0YEYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="367" src="https://www.youtube.com/embed/yhYaa7YAFDs?si=VrhUMqcyFqU0YEYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![伊丹机场航站楼内和拉面](https://blog.hakubill.tech/img/jp/IMG_9900.heic)
 

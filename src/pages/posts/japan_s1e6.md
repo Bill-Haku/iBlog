@@ -11,7 +11,7 @@ cover:
 tags: ["日本", "回乡记", "杂谈", "旅游"]
 theme: 'light'
 featured: true
-published: false
+published: true
 ---
 
 ## 大阪——再次启动！
@@ -30,7 +30,7 @@ published: false
 
 ![天王寺动物园。值得注一提的是，在日语一般地名、招牌等正式的场合都会尽可能使用汉字，这里完全可以使用「天王寺動物園」这几个汉字书写。不过，在日本儿童的学习过程中，都是先通过假名记住读音，然后在高年级再学习对应的汉字用以替换可以替换的假名（在日本汉字的识字量也是重要的语言能力考核指标）。这里应该也是动物园为了照顾小朋友，才全使用平假名来书写动物园的招牌。](https://blog.hakubill.tech/img/jp/IMG_0021.heic)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.2230339865228!2d135.51005031664909!3d34.64906990053351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000ddf46b0b32a7%3A0x9efa22b664007f56!2sTenshiba!5e0!3m2!1szh-CN!2sjp!4v1699173998915!5m2!1szh-CN!2sjp" width="653" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.2230339865228!2d135.51005031664909!3d34.64906990053351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000ddf46b0b32a7%3A0x9efa22b664007f56!2sTenshiba!5e0!3m2!1szh-CN!2sjp!4v1699173998915!5m2!1szh-CN!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 我自然是没有时间进去参观动物园和其他地方了，因为たお很快就要到了。于是我便折返，回到天王寺駅公園改札口等到たお。
 

@@ -26,7 +26,7 @@ published: true
 
 我的酒店所在的位置的地名，或者说片区名叫做梅田(うめだ, Umeda)。事实上，大阪駅也在这附近。在大阪站或者说梅田这一片区，有JR的大阪駅、前面提到过的阪急線的大阪梅田駅、阪神本線的大阪梅田駅、还有大阪地下鉄御堂筋線的梅田駅、谷町線的東梅田駅、四つ橋線的西梅田駅、東西線的北新地駅等若干铁路公司的若干不同线路的若干个不同名字的车站。如果有兴趣的话可以打开地图软件即可看到附近了，以下提供Google Map中大阪駅附近的地图供参考：
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14013.96950108556!2d135.4927004373382!3d34.69957832268357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e68d95e3a70b%3A0x1baec822e859c84a!2z5aSn6Ziq56uZ!5e0!3m2!1szh-CN!2sjp!4v1698737753074!5m2!1szh-CN!2sjp" width="653" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14013.96950108556!2d135.4927004373382!3d34.69957832268357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e68d95e3a70b%3A0x1baec822e859c84a!2z5aSn6Ziq56uZ!5e0!3m2!1szh-CN!2sjp!4v1698737753074!5m2!1szh-CN!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 我乘坐阪急線到达终点大阪梅田之后，又步行前往JR大阪駅乘坐大阪環状線坐一站到达福島駅。Google Map显示这一站会更近一些。不过这里的福島不是中国的互联网上沸沸扬扬的福島第1原発所在的福島県。福岛在日本就是字面意义上的有福之岛，所以还算是一个颇为常见的地名。
 
