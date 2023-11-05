@@ -7273,6 +7273,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
   margin: 0;
   padding: 10px 0px;
   font-size: 14px;
+  text-align: left;
 }
 
 .theme-dark .article-copyright {
