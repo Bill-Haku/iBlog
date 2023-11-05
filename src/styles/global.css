@@ -352,7 +352,7 @@ a:disabled,
   }
 
   .nav-title {
-    font-size: 21px;
+    font-size: 18px;
     line-height: 21px;
   }
 
@@ -386,7 +386,7 @@ a:disabled,
 .nav-content-wrapper {
   margin: 0 auto;
   max-width: 980px;
-  padding: 0 22px;
+  padding: 0 16px;
   position: relative;
   z-index: 2;
 }
