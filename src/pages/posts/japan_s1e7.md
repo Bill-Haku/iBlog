@@ -11,7 +11,7 @@ cover:
 tags: ["圣地巡礼", "动漫", "日本", "回乡记", "来自风平浪静的明天", "杂谈", "旅游"]
 theme: 'light'
 featured: true
-published: true
+published: false
 ---
 
 ![凪のあすから 10TH ANNIVERSARY|inline](https://blog.hakubill.tech/img/icons/nagiasu10th.jpg)
@@ -100,9 +100,11 @@ published: true
 
 ![新鹿駅站房。不大，有点破旧，也很简陋。|inline](https://blog.hakubill.tech/img/jp/IMG_0121.heic)
 
-新鹿站位于新鹿町的高地之上，门口还有很大的空地，因为这里似乎是村民的海啸避难所之类的地方。新鹿站门口只有一条路，在下方的地图上看起来就是新鹿站北面南北方向的沿着铁路那一条小路。
+新鹿站位于新鹿町的高地之上，门口还有很大的空地，因为这里似乎是村民的海啸避难所之类的地方。新鹿站门口只有一条路，在下方的地图上看起来就是新鹿站北面南北方向的沿着铁路那一条小路。在下方的地图上，我选择了新鹿邮局作为分享的中心，因为我们在新鹿町的绝大多数POI（兴趣点）（请原谅我不知道该使用什么词了，只好使用这个在图像识别人工智能研究领域常见的术语来描述，顾名思义就是我们感兴趣的点，具体可以看[Wikipedia](https://zh.wikipedia.org/zh-hans/興趣點)）都在这个邮局附近。
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2474.317182051947!2d136.14561285596744!3d33.92937130510703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6006775b726a5189%3A0x19c78c091a48ddb2!2sAtashika%20Post%20Office!5e0!3m2!1szh-CN!2sjp!4v1699457820317!5m2!1szh-CN!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+一路下坡，很快就能看到一条大路。
 
 ```
 - JR特急くろしお１号 新宮行き 大阪-新宮 13駅目 0740-1158 4h18min
