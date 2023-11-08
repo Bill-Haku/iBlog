@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '去往风平浪静的昨天'
-pubDate: 2023-11-08
+pubDate: 2023-11-09
 description: '「凪のあすから」圣地巡礼 [回乡记S1E7]'
 author: 'Bill Haku'
 cover:
@@ -94,11 +94,15 @@ published: true
 
 ![新鹿駅|inline](https://blog.hakubill.tech/img/jp/_DSC0404.heic)
 
-![新鹿駅站房。从站台直接通过平交道口穿过旁边的轨道，便通向新鹿站的站房。本站于1956年（昭和31年）开业，直到1983年（昭和58年）转为无人化车站。不过直到1982年管理站仍然会派遣职员在本站销售车票。站厅入口左边的箱子上写着「请将从上车站过来的运费以及车票等放进这个箱子里」。|inline](https://blog.hakubill.tech/img/jp/_DSC0405.heic)
+![新鹿駅站房。从站台直接通过平交道口穿过旁边的轨道，便通向新鹿站的站房。本站于1956年（昭和31年）开业，直到1983年（昭和58年）转为无人化车站。不过直到1982年管理站仍然会派遣职员在本站销售车票。站厅入口左边的箱子上写着「请将从上车站过来的运费以及车票等放进这个箱子里」。|inline](https://blog.hakubill.tech/img/jp/_DSC0415.heic)
 
 ![新鹿駅站房内。这些卷帘门似乎已经很久没有打开过了。|inline](https://blog.hakubill.tech/img/jp/_DSC0416.heic)
 
-![新鹿駅站房。有点破旧，也很简陋。|inline](https://blog.hakubill.tech/img/jp/IMG_0121.heic)
+![新鹿駅站房。不大，有点破旧，也很简陋。|inline](https://blog.hakubill.tech/img/jp/IMG_0121.heic)
+
+新鹿站位于新鹿町的高地之上，门口还有很大的空地，因为这里似乎是村民的海啸避难所之类的地方。新鹿站门口只有一条路，在下方的地图上看起来就是新鹿站北面南北方向的沿着铁路那一条小路。
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2474.317182051947!2d136.14561285596744!3d33.92937130510703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6006775b726a5189%3A0x19c78c091a48ddb2!2sAtashika%20Post%20Office!5e0!3m2!1szh-CN!2sjp!4v1699457820317!5m2!1szh-CN!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ```
 - JR特急くろしお１号 新宮行き 大阪-新宮 13駅目 0740-1158 4h18min
