@@ -104,7 +104,15 @@ published: false
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2474.317182051947!2d136.14561285596744!3d33.92937130510703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6006775b726a5189%3A0x19c78c091a48ddb2!2sAtashika%20Post%20Office!5e0!3m2!1szh-CN!2sjp!4v1699457820317!5m2!1szh-CN!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-一路下坡，很快就能看到一条大路。
+![新鹿町 站门口的小路|inline](https://blog.hakubill.tech/img/jp/_DSC0420.heic)
+
+一路下坡，很快就能看到一条大路。不过其实也没有太宽，最多也就并排两辆车。不过这里没想到还遇到了公交车，似乎好几个小时才会有一班。这里沿路还有几家商店，不过都大门紧闭我也不知道开门没有。
+
+![新鹿町 一条大路|inline](https://blog.hakubill.tech/img/jp/_DSC0426.heic)
+
+![竹本魚店|inline](https://blog.hakubill.tech/img/jp/_DSC0427.heic)
+
+沿着这条路一直走到头，就到了海边。其实准确说应该是堤坝。登上去搂了一眼。
 
 ```
 - JR特急くろしお１号 新宮行き 大阪-新宮 13駅目 0740-1158 4h18min
