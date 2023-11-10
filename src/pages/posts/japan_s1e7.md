@@ -74,7 +74,9 @@ published: false
 
 ![没有人的电车座椅。也许也有来自二次元的JK坐在那里，只是我们看不见。|inline](https://blog.hakubill.tech/img/jp/IMG_0114.heic)
 
-坐在这辆普通列车上，就很有跟着动漫里的角色坐在一起的感觉了。我也按照参考的巡礼记录中所推荐的，摸出了我的「凪のあすから」的歌单，从「mnemonic」开始听。列车慢慢地与轨道发出规律的声音，窗外就是大海，搭配这个音乐，非常有感觉。
+坐在这辆普通列车上，就很有跟着动漫里的角色坐在一起的感觉了。我也按照参考的巡礼记录中所推荐的，摸出了我的「凪のあすから」的歌单，从「mnemonic」开始听。列车慢慢地与轨道发出规律的声音，窗外就是大海，搭配这个音乐，非常有感觉。如果你订阅了Apple Music，你可以直接在下面播放。
+
+<iframe id="embedPlayer" src="https://embed.music.apple.com/jp/album/mnemonic/1650527586?i=1650527588&amp;app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
 ![在紀勢本線上听「凪のあすから」的歌单|inline](https://blog.hakubill.tech/img/jp/_DSC0380.1.heic)
 
@@ -85,6 +87,8 @@ published: false
 ![归家部的同学们|inline](https://blog.hakubill.tech/img/jp/IMG_0119.heic)
 
 ### 新鹿町
+
+<iframe id="embedPlayer" src="https://embed.music.apple.com/jp/album/lull-%E3%81%9D%E3%81%97%E3%81%A6%E5%83%95%E3%82%89%E3%81%AF/1650527493?i=1650527494&amp;app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
 14:08，列车到达新鹿駅。本次圣地巡礼将从此正式开始。
 
@@ -112,7 +116,49 @@ published: false
 
 ![竹本魚店|inline](https://blog.hakubill.tech/img/jp/_DSC0427.heic)
 
-沿着这条路一直走到头，就到了海边。其实准确说应该是堤坝。登上去搂了一眼。
+沿着这条路一直走到头，便是国道311号。在往前就到了海边。其实准确说应该是堤坝。登上去搂了一眼。这个堤坝让我想起了AIR里面的那个海边的堤坝。虽然不完全一样，但是大体上就是那个样式的。当然作为一个在内陆长大的人，对海边的印象本就不深，最多就是沙滩，海浪之类的。这种海边的堤坝还是第一次见。
+
+![站在堤坝上。其实照片视角的左边就是大海，不过有一排树遮挡了视线，拍照的效果也不好。|inline](https://blog.hakubill.tech/img/jp/_DSC0434.heic)
+
+回到国道311号上。按照刚才过来的方向来说，我先右转往南走，也就是往新鹿邮局的方向。邮局应该算是这次的第一个巡礼点了。
+
+![新鹿郵便局。到现在邮局的招牌和建筑已经做了一些装修了，与动画中有些不同。|inline](https://blog.hakubill.tech/img/jp/_DSC0467.1.heic)
+
+然后旁边不远就是动画里的杂货店。
+
+![清七屋ストア。截图于OP中。](https://blog.hakubill.tech/img/jp/_DSC0436.1.heic)
+
+![或者是这样P到一起，会不会更有意思一点呢？|inline](https://blog.hakubill.tech/img/jp/_DSC0436.3.heic)
+
+继续走，很快就走到了堤岸的上面。左边看过去，就是大海了。不过准确的说，我们离大海还隔了一条小河。这条小河离大海只有不到20米远就可以入海了，但是却被一块沙洲隔离开来，一直沿着海岸线流了好几百米才得以入海。地图上显示国道旁边是一块露营地，不知道夏天这里会不会有人来露营。然后便是地图上显示的新鹿海水浴场。虽然气温还有二十多度，但是完全不像会有人来这游泳的样子。
+
+![一排桥墩。在动画中也经常出现这个场景，但是动画里的桥墩很高，而且给人一种还未修好的感觉。不过现实里这里的桥墩很小，大概只有不到一米高，而且锈蚀等使用过的痕迹很多，应该是不知道多少年前曾经有桥方便游客跨过这条小河到海边的沙洲去，不过后来把桥板拆了，只留下这些桥墩了。桥墩上有些已经是歪着的，有些还保持直立的钢筋，可能是以前用于固定桥两边的扶手或护栏用的。|inline](https://blog.hakubill.tech/img/jp/_DSC0446.heic)
+
+下到海边的步道上，可以看出来这里似乎偶尔还有活动。一切都有所打理，旁边还有几个工人在一辆小货车旁边不知道正在干些什么。这里还有新鹿町唯一的一个公共厕所。最后我一直走到这条河的入海口的位置，如果你看上面我给出的地图的话，则需要往下拖动一下才能看到。
+
+![入海口](https://blog.hakubill.tech/img/jp/_DSC0455.heic)
+
+真是一条小河啊。入海口最窄的地方可能也就两米宽。不过最终还是流进了无尽的大海，无尽的太平洋。这里的海湾被叫做新鹿湾。而抬头往远处看不远，就是新鹿渔港。是不是跟动画里的一模一样？！那看来，住在海底的まなか她们，是不是就是从这里上岸的呢？说不定我也可以去码头捞一只まなか回来？
+
+![新鹿渔港](https://blog.hakubill.tech/img/jp/_DSC0456.heic)
+
+周围十分安静。只有海浪一直拍打着岸边，偶尔还有鸟叫。我在海边站了好长一段时间。首先是走了好远，有点累了。此外，也是在享受这独属我一人的海边。我蹲下看着拍打到我脚边的海水，清澈透明。摸了一下，十分清凉。
+
+大海是能装下所有故事的巨大容器。我完全愿意相信这里的水下确实有一个叫做汐鹿生的村庄，因为我相信这片大海见证了人类从无到有的完整历史，见证了海边的人们从把独木舟推下海到在海上填成陆地然后修建飞向天空的机场，见证了人们从相识到相熟、从怀念到分别的所有的情感，见证了所有人的成长和轮回。
+
+大海一如既往地拍打着岸边。日夜不息。这片大海似乎难以有真正风平浪静的一天。不过在3年之前，就是这片大海，让我得以平复紧张而复杂的心情，在风平浪静之中继续前进。终于，我得以来到这里，而来到这里，就是我的 **「去往风平浪静的昨天」**。
+
+我在新鹿町的时间只有两小时多一点。而且走路也走的太累，只好放弃前往新鹿渔港，掉头沿着311国道回去。在那个路口的另一边，也有一些值得看的东西。
+
+![国道311号|inline](https://blog.hakubill.tech/img/jp/_DSC0460.heic)
+
+现在日本的老龄化和少子化的问题确实很严重。很多乡村的人口都在减少，因为年轻人都去东京大阪这些大城市找工作，只有老年人还留在乡下了，跟中国的情况有点相似。能看到许多无人居住的房屋，破败的招牌，搬走的告示，失修的痕迹。
+
+![路边的空地和破败的招牌|inline](https://blog.hakubill.tech/img/jp/_DSC0461.heic)
+
+重新回到刚才从新鹿站下来的那个路口，再往前走，很快就到了一座桥。这座桥下的河其实就是刚才我们看到的入海的那条河。
+
+![桥头。出自动画第17话。|inline](https://blog.hakubill.tech/img/jp/_DSC0470.1.heic)
 
 ```
 - JR特急くろしお１号 新宮行き 大阪-新宮 13駅目 0740-1158 4h18min
