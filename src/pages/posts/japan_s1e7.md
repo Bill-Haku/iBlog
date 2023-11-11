@@ -208,7 +208,7 @@ published: true
 
 ![隧道洞口](https://blog.hakubill.tech/img/jp/_DSC0539.heic)
 
-![隧道洞口（动画中）](https://blogimg.goo.ne.jp/user_image/4f/46/2afd0997f379f57222d3bbb9127a49fc.jpg)
+![隧道洞口（动画中，第1话16分38秒处）](https://blogimg.goo.ne.jp/user_image/4f/46/2afd0997f379f57222d3bbb9127a49fc.jpg)
 
 由于在晚上我必须赶到奈良县，因此我在波田須的停留时间只有30分钟。波田須附近其实还是有好几个值得去看的点，比如著名的天女座咖啡厅（动画里叫做「人鱼座」）（没想到这一百多人的小村还会有咖啡厅），还有已经在2005年3月31日起休校的新鹿小学校波田須分校等。天女座咖啡厅在地图上看起来很近，不过打开导航显示要走20多分钟，显然如果我真的走到那里了的话，肯定是在半小时内赶不回来了。而波田須小学，则是动画里也即将废校的海底的学校的原型。如果想看看详细的在波田須的巡礼的话，除了开头引用的那篇博客之外，还可以看看[这篇博客](http://626shin.blog.fc2.com/blog-category-28.html)。这篇博客的作者是跟随同好者的组织的活动，有幸得到许可进入了平时被上锁了的波田須小学校参观拍照，得到了很多珍贵的照片。
 
@@ -218,7 +218,7 @@ published: true
 
 ![波田須駅门前的小路。真不愧是称之为秘境站的地方，这里距离车站的入口不到20米远，但是远处的铁轨只是若隐若现，站台完全发现不了，只有候车棚漏出了一个小角落，不仔细看也很难发现。如果不是只走出了几步远，很难让人不怀疑是不是走错路了。](https://blog.hakubill.tech/img/jp/_DSC0545.heic)
 
-![熊野滩。沿着这条路走不了多久就登上了挺高的地方，发现熊野滩的风景也确实不错。](https://blog.hakubill.tech/img/jp/_DSC0549.heic)
+![熊野滩。沿着这条路走不了多久就登上了挺高的地方，发现熊野滩的风景也确实不错。|wide](https://blog.hakubill.tech/img/jp/_DSC0549.heic)
 
 ![波田須町的一户人家。非常日式的房子，所以就拍下来了。此外，路过某一户房子的时候，还听到里面传来了电视机的声音，让我觉得我还在人间。](https://blog.hakubill.tech/img/jp/_DSC0560.heic)
 
@@ -244,7 +244,7 @@ published: true
 
 从未有过的安静感。以至于我拍下了这段视频，尝试记录一下这种感觉。不过晚上拍出来画质又不太好，为了节约空间，只能再将视频进一步压缩。
 
-<video id="video" controls="" preload="none" poster="封面">
+<video id="video" controls="" preload="none" poster="封面" width="100%">
       <source id="mp4" src="https://blog.hakubill.tech/video/kii-nagashima.mp4" type="video/mp4">
 </videos>
 
@@ -258,3 +258,8 @@ published: true
 - 近鉄橿原線特急 京都行き 大和八木-大和西大寺 2駅目 2057-2113 16min
 - 近鉄奈良線急行 近鉄奈良行き 大和西大寺-近鉄奈良 2駅目 2122-2127 5min
 ```
+
+
+### 后记
+
+似乎有一些地方的位置是错误的。具体可以看[这篇博客](https://otsuyokodon.hatenablog.com/entry/2017/08/01/000228)及其中引用的其他博客。
