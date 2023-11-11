@@ -74,7 +74,7 @@ published: true
 
 在难波、心斋桥和道顿堀这一片区随便乱逛，边走边聊天。白天人也不少。
 
-![在一家商场里发现的买龙猫等吉卜力的店和动画「文豪野犬」的联动餐厅](https://blog.hakubill.tech/img/jp/IMG_0040.heic)
+![在一家商场里发现的买龙猫等周边的店和动画「文豪野犬」的联动餐厅](https://blog.hakubill.tech/img/jp/IMG_0040.heic)
 
 ![再次来到了这个桥上。这里在第4集中出现过，各位读者还有印象吗？|inline](https://blog.hakubill.tech/img/jp/IMG_0042.heic)
 
