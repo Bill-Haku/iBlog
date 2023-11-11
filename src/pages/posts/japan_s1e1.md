@@ -5,8 +5,8 @@ pubDate: 2023-10-27
 description: '这次的回乡之旅，从东航A350的商务舱开始'
 author: 'Bill Haku'
 cover:
-    url: 'https://blog.hakubill.tech/img/jp/_DSC0093.heic'
-    square: 'https://blog.hakubill.tech/img/jp/_DSC0093.heic'
+    url: 'https://blog.hakubill.tech/img/jp/webp/_DSC0093.webp'
+    square: 'https://blog.hakubill.tech/img/jp/webp/_DSC0093.webp'
     alt: 'cover'
 tags: ["日本", "回乡记", "杂谈", "旅游", "飞行"]
 theme: 'light'
@@ -32,45 +32,45 @@ published: true
 
 早上打了车到达双流国际机场T2航站楼。然后前往东航的两舱值机柜台打登机牌。我没有托运行李。两舱柜台铺了一个红地毯，也没有其他的隔断。不过没有人在排队，去了直接递给对方身份证，很快就办理好了登机牌。背面无广告，正面上方紫红色的背景和“头等舱/公务舱”的字样，~~尽显尊贵~~。
 
-![尽显尊贵的登机牌|inline](https://blog.hakubill.tech/img/jp/IMG_9785.heic)
+![尽显尊贵的登机牌|inline](https://blog.hakubill.tech/img/jp/webp/IMG_9785.webp)
 
 使用两舱安检通道通过安检。双流机场的两舱安检通道就在普通通道的最边上.早上的双流机场人也并不少，相比于隔壁大排长队的普通通道，我还是很快就通过了安检。接着就是前往东航的休息室了。通过安检后右转走到头，东航的休息室就会在右手边拐角处。递上登机牌，并把装着我的背包的手推车丢在前台旁边，我就进入了休息室，先去搞点早餐吃。相比于南航在广州白云的休息室，我认为东航这个在双流的休息室餐食方面并不差。一冰柜的饮料，配有农夫山泉、苏打水、啤酒、可口可乐、雪碧、零度可口可乐、各种果汁饮料、酸奶、面包、还有鲜开封的，注有日期的牛奶、椰树椰汁和橙汁。旁边摆了一排咖啡、豆浆、包子、煮鸡蛋、馒头、稀饭等中式传统早餐。中间的桌子上有水果、饼干和面的浇头。最里面便是面档。说起来，东航的官网上说双流机场的休息室是没有面档的，但其实是有的，反倒是南航在广州白云的没有，至少我去的那个没有。我要了一份担担面。面档师傅很快就做好了，我自己再加了一些调料，拿了一瓶果汁。然后就去找个座位坐下来吃早餐。
 
-![东航休息室的用餐区|inline](https://blog.hakubill.tech/img/jp/IMG_9786.heic)
+![东航休息室的用餐区|inline](https://blog.hakubill.tech/img/jp/webp/IMG_9786.webp)
 
 吃完早餐，去到休息区。沙发坐起来还不错，电视在播放航班信息。不过电视的分辨率过于低了，感觉可能也就360p，靠近了反而看不清楚写的是啥，离远了才能分别出来。有意思的是，在书架上还有一本日语书和一本韩语书。
 
 很快到了登机时间。我又享受这两舱优先登机，绕过在登机口排长队的旅客，上了东航的考斯特。
 
-![东航的考斯特和A350|inline](https://blog.hakubill.tech/img/jp/IMG_9794.heic)
+![东航的考斯特和A350|inline](https://blog.hakubill.tech/img/jp/webp/IMG_9794.webp)
 
 我选择的座位是12A。参考了B站一个vlog博主的选择。选择偶数排座位可以让靠近窗子，否则离窗子就会隔一个平台。这个座位就在从中间舱门登机后的左转第一个位置，而往后还能看到发动机里面。往外的视野也很好。面前是一块巨大的屏幕，起飞降落的时候打开A350搭载的摄像头同步看外面，效果还不错。右手边有小桌板和控制PTV的手柄，此外还有一排控制座位的按键。座位的前后、靠背和腿撑都可以调整。脚下的空间很大，可以把座位完全放平。放脚的空间就对应前面的座位的窗子边的平台下面。对于我175的身高来说，这个座位也绰绰有余。右边后面有阅读灯、一瓶矿泉水、耳机架和一些小储物空间。普通的遮光板在这里是双层的遮光帘。此外东航提供的拖鞋也很舒服，虽然看起来跟酒店的差不多，但是穿起来要舒服的多。虽然东航提示了可以带走，但是我的背包实在是东西太多装不下了，于是最后就留在了飞机上。
 
-![东航A350商务舱12A的座位](https://blog.hakubill.tech/img/jp/_DSC0097.heic)
+![东航A350商务舱12A的座位](https://blog.hakubill.tech/img/jp/webp/_DSC0097.webp)
 
-![东航A350商务舱入座第一人称视角|inline](https://blog.hakubill.tech/img/jp/IMG_9796.heic)
+![东航A350商务舱入座第一人称视角|inline](https://blog.hakubill.tech/img/jp/webp/IMG_9796.webp)
 
 很快空乘端来热毛巾和欢迎饮品。我选择了东航经典的“明亮前橙“。
 
-![“明亮前橙“](https://blog.hakubill.tech/img/jp/_DSC0098.heic)
+![“明亮前橙“](https://blog.hakubill.tech/img/jp/webp/_DSC0098.webp)
 
-![看看东航公务舱的菜单|inline](https://blog.hakubill.tech/img/jp/IMG_9799.heic)
+![看看东航公务舱的菜单|inline](https://blog.hakubill.tech/img/jp/webp/IMG_9799.webp)
 
 相比这次旅行将会是十分顺利的。在起飞后不久，穿入云层，没想到居然看到飞机的影子居然和太阳落在云层上形成了“佛光”。我在峨眉山金顶上看到过佛光，主要就是人的影子和太阳光经过水汽折射啥的形成七彩的光环，然后看起来便像佛在云深处。是吉祥的象征。
 
-![“佛光“](https://blog.hakubill.tech/img/jp/_DSC0116.heic)
+![“佛光“](https://blog.hakubill.tech/img/jp/webp/_DSC0116.webp)
 
 起飞前乘务员询问我要选择哪种早餐。想着刚在休息室吃了面，于是就决定来一份西式早餐吧。同时饮料选择了茶。于是起飞后不久，进入平飞之后，我正准备躺下休息一下，乘务员就来给我铺桌布了。我只好再把座位调直坐起来。首先给我上了茶。然后很快就给我端来了早餐。
 
-![茶](https://blog.hakubill.tech/img/jp/IMG_9818.heic)
+![茶](https://blog.hakubill.tech/img/jp/webp/IMG_9818.webp)
 
-![东航商务舱西式早餐](https://blog.hakubill.tech/img/jp/_DSC0124.heic)
+![东航商务舱西式早餐](https://blog.hakubill.tech/img/jp/webp/_DSC0124.webp)
 
 早餐的内容就是菜单上的那一套。此外就是几块水果，一块面包，一杯酸奶。但是老实说这个早餐确实很西方。我不知道是不是欧洲美国人都是这样的，反正感觉没啥盐味。不过分量还是有的，加上在休息室吃了早餐也没多久，填饱肚子肯定没问题。
 
 此外值得一提的是，A350搭载了卫星网络系统，公务舱可以无限制访问互联网。于是在群里实时水群，感觉都还不错。网速也很快。于是我拿出了我珍藏的最后一集《日常》，边吃早饭，边看完了这部番。顺带一提，我也很好奇我的IP属地会是哪，于是我发了一个动态：
 
-![我怎么跑到北京去了？！|inline](https://blog.hakubill.tech/img/jp/IMG_9814.jpg)
+![我怎么跑到北京去了？！|inline](https://blog.hakubill.tech/img/jp/webp/IMG_9814.webp)
 
 人坐在成都到上海的飞机上，网却跑到北京去了啊。
 
@@ -84,4 +84,4 @@ published: true
 
 > - MU5402 CTU-SHA 0752-1010 A350-900 B-324W 2h18m 1782km
 
-![漂亮的A359的RR发动机](https://blog.hakubill.tech/img/jp/_DSC0129.heic)
+![漂亮的A359的RR发动机](https://blog.hakubill.tech/img/jp/webp/_DSC0129.webp)
