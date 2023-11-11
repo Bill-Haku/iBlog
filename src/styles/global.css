@@ -92,6 +92,10 @@ figcaption {
   margin-bottom: 16px;
 }
 
+hr {
+  margin-bottom: 36px;
+}
+
 fieldset,
 iframe {
   border: 0
