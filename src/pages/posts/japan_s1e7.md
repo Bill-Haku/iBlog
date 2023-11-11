@@ -126,7 +126,7 @@ published: true
 
 然后旁边不远就是动画里经常出现的杂货店。
 
-![清七屋ストア。截图于OP中。あかり上班的地方，一家普通的杂货店。](https://blog.hakubill.tech/img/jp/_DSC0436.1.heic)
+![清七屋ストア。截图于OP中。あかり上班的地方，一家普通的杂货店。|inline](https://blog.hakubill.tech/img/jp/_DSC0436.1.heic)
 
 ![或者是这样P到一起，也就是所谓的打破次元壁，会不会更有意思一点呢？](https://blog.hakubill.tech/img/jp/_DSC0436.3.heic)
 
@@ -162,13 +162,13 @@ published: true
 
 桥下还有一个角度。这也是本文封面的图片。
 
-![桥下。同出自动画第17话。距离制作组在这里取景，肯定是十几年都过去了，但是没想到这里还是没啥变化。无论是栏杆边的牌子还是人物背后的小房子的卷帘门，都还是一模一样，甚至桥下河道里的石头，似乎都差不多。|inline](https://blog.hakubill.tech/img/jp/_DSC0482.4.heic)
+![桥下。同出自动画第17话。距离制作组在这里取景，肯定是十几年都过去了，但是没想到这里还是没啥变化。无论是栏杆边的牌子还是人物背后的小房子的卷帘门，都还是一模一样，甚至桥下河道里的石头，似乎都差不多。](https://blog.hakubill.tech/img/jp/_DSC0482.4.heic)
 
 而在河里顺着河往上游，也就是紀勢本線铁路的方向走的话，就能找到动画里也常出现的火车桥下的场景了。
 
 ![紀勢本線桥下|inline](https://blog.hakubill.tech/img/jp/_DSC0472.heic)
 
-![紀勢本線桥下（动画中）|inline](https://imglf4.lf127.net/img/am9UYlVqUS9hUk4rTWZFVUtROWtvbzZiWTVYNGswdlhQOWtsQzVIR0JlU2hTYjYwRjFwaWVRPT0.jpg)
+![紀勢本線桥下（动画中）|inline](https://blog.hakubill.tech/img/jp/_DSC0472.2.heic)
 
 至此，我在新鹿町的所有计划的巡礼点就结束了。随后继续在新鹿町里转一转，看看这个十分普通的海边小镇。虽然还没开始上班，但是这个地方真是一个绝佳的适合养老的地方。反正还有那么多空地，买一块修一栋房子就住在这算了，这种也没多少人的地方应该也不贵。清净，环境好、气候也不错，简直就是我理想中的养老地。
 
@@ -206,9 +206,9 @@ published: true
 
 其实到了这个站，就是一个巡礼的点。这个隧道洞口给人的印象还挺深的。不过作画的角度似乎是站在铁轨的外侧拍的，虽然我也有点想跳下站台去拍的冲动，但是还是担心安全，以及这个站台看起来不低，还背着很重的包，如果半天上不去也很麻烦。所以只好站在站台上拍下了这个隧道洞口。
 
-![隧道洞口](https://blog.hakubill.tech/img/jp/_DSC0538.heic)
+![隧道洞口](https://blog.hakubill.tech/img/jp/_DSC0539.heic)
 
-![隧道洞口（动画中）](http://blog-imgs-82.fc2.com/6/2/6/626shin/20150902012922863.jpg)
+![隧道洞口（动画中）](https://blogimg.goo.ne.jp/user_image/4f/46/2afd0997f379f57222d3bbb9127a49fc.jpg)
 
 由于在晚上我必须赶到奈良县，因此我在波田須的停留时间只有30分钟。波田須附近其实还是有好几个值得去看的点，比如著名的天女座咖啡厅（动画里叫做「人鱼座」）（没想到这一百多人的小村还会有咖啡厅），还有已经在2005年3月31日起休校的新鹿小学校波田須分校等。天女座咖啡厅在地图上看起来很近，不过打开导航显示要走20多分钟，显然如果我真的走到那里了的话，肯定是在半小时内赶不回来了。而波田須小学，则是动画里也即将废校的海底的学校的原型。如果想看看详细的在波田須的巡礼的话，除了开头引用的那篇博客之外，还可以看看[这篇博客](http://626shin.blog.fc2.com/blog-category-28.html)。这篇博客的作者是跟随同好者的组织的活动，有幸得到许可进入了平时被上锁了的波田須小学校参观拍照，得到了很多珍贵的照片。
 
@@ -242,7 +242,7 @@ published: true
 
 ![紀伊長島駅附近](https://blog.hakubill.tech/img/jp/_DSC0576.heic)
 
-从未有过的安静感。以至于我拍下了这段视频，尝试记录一下这种感觉。
+从未有过的安静感。以至于我拍下了这段视频，尝试记录一下这种感觉。不过晚上拍出来画质又不太好，为了节约空间，只能再将视频进一步压缩。
 
 <video id="video" controls="" preload="none" poster="封面">
       <source id="mp4" src="https://blog.hakubill.tech/video/kii-nagashima.mp4" type="video/mp4">
