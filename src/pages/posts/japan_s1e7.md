@@ -14,7 +14,7 @@ featured: true
 published: true
 ---
 
-![凪のあすから 10TH ANNIVERSARY|inline](https://blog.hakubill.tech/img/icons/nagiasu10th.webp)
+![凪のあすから 10TH ANNIVERSARY|inline](https://blog.hakubill.tech/img/icons/nagiasu10th.jpg)
 
 凪のあすから（来自风平浪静的明天）于2013年10月在日本首播，到今年10月正好是10周年。非常有幸能够在这样的一个节点，前往日本三重县熊野市附近的本作的取景地，进行圣地巡礼。如果你还没有看过官方发布的10周年纪念PV，你可以在下面或者前往YouTube观看。
 
@@ -98,7 +98,7 @@ published: true
 
 ![新鹿駅|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0404.webp)
 
-![新鹿駅站房。从站台直接通过平交道口穿过旁边的轨道，便通向新鹿站的站房。本站于1956年（昭和31年）开业，直到1983年（昭和58年）转为无人化车站。不过直到1982年管理站仍然会派遣职员在本站销售车票。站厅入口左边的箱子上写着「请将从上车站过来的运费以及车票等放进这个箱子里」。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0415.webp)
+![新鹿駅站房。从站台直接通过平交道口穿过旁边的轨道，便通向新鹿站的站房。本站于1956年（昭和31年）开业，直到1983年（昭和58年）转为无人化车站。不过直到1982年管理站仍然会派遣职员在本站销售车票。站厅入口左边的箱子上写着「请将从乘车站到来本站的运费以及车票等放进这个箱子里」。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0415.webp)
 
 ![新鹿駅站房内。这些卷帘门似乎已经很久没有打开过了。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0416.webp)
 

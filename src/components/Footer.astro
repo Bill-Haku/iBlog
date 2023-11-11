@@ -1,5 +1,5 @@
 ---
-import { SITE_TITLE, SITE_EMAIL } from "../consts";
+import { SITE_TITLE, SITE_EMAIL, SITE_EMAIL_MAILTO } from "../consts";
 const { theme } = Astro.props;
 import { SITE_NAME } from "../consts";
 const date = new Date();
@@ -13,7 +13,7 @@ const year = date.getFullYear();
         <div class="foot-nav-items">
           <div class="item">
             <div class="logo">{SITE_TITLE}</div>
-            <div class="email">Email: {SITE_EMAIL}</div>
+            <div class="email">Email: <a href={SITE_EMAIL_MAILTO}>{SITE_EMAIL}</a></div>
           </div>
 
           <div class="item products">
@@ -39,6 +39,7 @@ const year = date.getFullYear();
       <div class="bottom">
         <div class="copyright">
           建议使用 Safari 17.0 或更高版本的浏览器访问<br>
+          为了更好的浏览体验，请确保您的网络环境能访问<a href="https://www.google.com">Google</a>、<a href="https://youtube.com">YouTube</a>等网站<br>
           Copyright &copy; {`2022-${year}  ${SITE_NAME}`}
           <a href="https://hakubill.tech">Bill Haku</a><br>
           <a href="https://icp.gov.moe/?keyword=20239361" target="_blank">萌ICP备20239361号</a>
