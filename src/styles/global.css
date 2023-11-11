@@ -82,6 +82,16 @@ figcaption {
   }
 }
 
+.component-content blockquote {
+  border-left: 4px solid #795800;
+  padding: 0 10px;
+  color: #777;
+  quotes: none;
+  margin-left: 1em;
+  padding: 10px;
+  margin-bottom: 16px;
+}
+
 fieldset,
 iframe {
   border: 0
