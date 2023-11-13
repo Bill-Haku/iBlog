@@ -28,7 +28,7 @@ published: true
 
 高考，对中国的高中生来说，不仅仅是决定大学去处的考试，也是高中生活结束的标志。很多人往往过分看重前者，而忽视了后者。这部动漫让我能够在那个充满了数据、效率和竞争的世界里，看到一个奇幻的海边世界，一段让人日思夜想的故事，一群少男少女间复杂却又纯粹的情感网络。
 
-此时距离我看完这部番已经过去了三年多了，尽管我十分喜爱本作，我却始终没有二刷一遍。故事中的前半部分和后半部分之中，主角们沉睡了5年，因此当时我就决定，等到5年之后，再来回顾这部作品。不知道高考5年之后的自己会是什么样子，再次看到这部作品时，会是怎样的心情。
+此时距离我看完这部番已经过去了三年多了，尽管我十分喜爱本作，我却始终没有二刷一遍。故事中的前半部分和后半部分之中，主角们沉睡了5年，因此当时我就决定，等到5年之后，再来回顾这部作品。如果我能够切身体会一下这五年的时间差，应该能够更好得再次回味这一段故事吧。不知道高考5年之后的自己会是什么样子，再次看到这部作品时，会是怎样的心情。
 
 闲话到此为止。接下来我们就开始本次圣地巡礼的旅程吧。
 
@@ -74,11 +74,13 @@ published: true
 
 ![没有人的电车座椅。也许也有来自二次元的JK坐在那里，只是我们看不见。|inline](https://blog.hakubill.tech/img/jp/webp/IMG_0114.webp)
 
+![动画中的电车内的座椅（动画OP1）|inline](https://blog.hakubill.tech/img/jp/webp/IMG_0114.1.webp)
+
 坐在这辆普通列车上，就很有跟着动漫里的角色坐在一起的感觉了。我也按照参考的巡礼记录中所推荐的，摸出了我的「凪のあすから」的歌单，从「mnemonic」开始听。列车慢慢地与轨道发出规律的声音，窗外就是大海，搭配这个音乐，非常有感觉。如果你订阅了Apple Music，你可以直接在下面播放。
 
 <iframe id="embedPlayer" src="https://embed.music.apple.com/jp/album/mnemonic/1650527586?i=1650527588&amp;app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
-![在紀勢本線上听「凪のあすから」的歌单|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0380.1.webp)
+![在紀勢本線上听「凪のあすから」的歌单。当时我还在使用QQ音乐，不过现在已经换到了Apple Music。不过Apple Music中国大陆区并没有这几首歌，所以这个当时建立的歌单我还一直保留在QQ音乐里。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0380.1.webp)
 
 ![紀勢本線|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0385.webp)
 
@@ -88,13 +90,13 @@ published: true
 
 ### 新鹿町
 
-<iframe id="embedPlayer" src="https://embed.music.apple.com/jp/album/lull-%E3%81%9D%E3%81%97%E3%81%A6%E5%83%95%E3%82%89%E3%81%AF/1650527493?i=1650527494&amp;app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
+14:08，列车到达新鹿駅。本次圣地巡礼将从此正式开始。不如在下面点开本作的OP，作为阅读的背景音乐吧。
 
-14:08，列车到达新鹿駅。本次圣地巡礼将从此正式开始。
+<iframe id="embedPlayer" src="https://embed.music.apple.com/jp/album/lull-%E3%81%9D%E3%81%97%E3%81%A6%E5%83%95%E3%82%89%E3%81%AF/1650527493?i=1650527494&amp;app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
 ![新鹿駅|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0402.webp)
 
-![目送车辆离开。由于这里都是单线，旁边有一辆车在待避等候通过。有几个JK和DK跟我一起下车，不过他们自然是下车就走掉了，我还留在站台上拍了很多照片。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0403.webp)
+![目送车辆离开。由于这里都是单线，旁边有一辆车在待避等候通过。有几个JK和DK跟我一起下车，不过他们自然是下车就走掉了，我则留在站台上拍了很多照片。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0403.webp)
 
 ![新鹿駅|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0404.webp)
 
@@ -126,7 +128,7 @@ published: true
 
 然后旁边不远就是动画里经常出现的杂货店。
 
-![清七屋ストア。截图于OP中。あかり上班的地方，一家普通的杂货店。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0436.1.webp)
+![清七屋ストア。截图于OP1中。あかり上班的地方，一家普通的杂货店。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0436.1.webp)
 
 ![或者是这样P到一起，也就是所谓的打破次元壁，会不会更有意思一点呢？](https://blog.hakubill.tech/img/jp/webp/_DSC0436.3.webp)
 
@@ -148,13 +150,15 @@ published: true
 
 大海是能装下所有故事的巨大容器。我完全愿意相信这里的水下确实有一个叫做汐鹿生的村庄，因为我相信这片大海见证了人类从无到有的完整历史，见证了海边的人们从把独木舟推下海到在海上填成陆地然后修建飞向天空的机场，见证了人们从相识到相熟、从怀念到分别的所有的情感，见证了所有人的成长和轮回。
 
-大海一如既往地拍打着岸边。日夜不息。这片大海似乎难以有真正风平浪静的一天。不过在3年之前，就是这片大海，让我得以平复紧张而复杂的心情，在风平浪静之中继续前进。本作的美术监督東地和生先生在本作中倾注了大量的感情，他用“恋爱”来形容他创作本作时的心情。第25话的标题说，「**好きは、海と似ている。**」。我想，这句话也可以说，「**好きは、海のように、静かに、深く、そして、永遠に。**」。这片大海里，有光、まなか、みうな之间的爱，还有美术监督東地和生先生对本作的爱，更有这片海滩背后世世代代的人们对世间万物的爱，而最后，是我对这里一切的喜爱。那个昨天在电视前看到的爱，终于出现在了我的眼前。
+大海一如既往地拍打着岸边。日夜不息。这片大海似乎难以有真正风平浪静的一天。不过在3年之前，就是这片大海，让我得以平复紧张而复杂的心情，在风平浪静之中继续前进。据说本作的美术监督東地和生先生在本作中倾注了大量的感情，他用“恋爱”来形容他创作本作时的心情。第25话的标题说，「**好きは、海と似ている。**」。展开来说，那就是「**好きは、海のように、静かに、深く、そして、永遠に。**」。这片大海里，有光、まなか、みうな之间的爱，还有美术监督東地和生先生对本作的爱，更有这片海滩背后世世代代的人们对世间万物的爱，而最后，是我对这里一切的喜爱。那个昨天在电视前看到的爱，终于出现在了我的眼前。这份情感，如同大海一样，平静、深邃，然后，永恒。
 
 > 终于，我得以来到这里，而来到这里，对我来说，就是 **「去往风平浪静的昨天」**。
 
 最后一话的标题，虽然不知道是不是冈妈写的，但是冈妈作为脚本作者，如是写道：
 
 > 「海の色。大地の色。風の色。心の色。君の色。」
+
+![「海的颜色。大地的颜色。风的颜色。心的颜色。你的颜色。」高中时我把这张图设置成了我的小米手环的表盘背景。在那个远离电子设备的时候，还好我能够抬手在手环上看到这个みうな，即使只是一张图，也足够治愈了。|inline](https://blog.hakubill.tech/img/jp/IMG_2746.jpg)
 
 ---
 
