@@ -5,8 +5,8 @@ pubDate: 2023-10-30
 description: '与たお共游大阪DAY1'
 author: 'Bill Haku'
 cover:
-    url: 'https://blog.hakubill.tech/img/jp/webp/_DSC0238.webp'
-    square: 'https://blog.hakubill.tech/img/jp/webp/_DSC0238.webp'
+    url: 'https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0238.webp'
+    square: 'https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0238.webp'
     alt: 'cover'
 tags: ["日本", "回乡记", "杂谈", "旅游"]
 theme: 'light'
@@ -18,11 +18,11 @@ published: true
 
 大阪，或者说日本的天气和空气都是真的好。直到此时我才意识到。海洋国家果然与我长期所处的大陆不一样。请看这张我在离开伊丹机场航站楼后在天桥上随手拍下的照片：天高云淡，空气清新，阳光明媚。路面干净，整洁有序。
 
-![伊丹机场外](https://blog.hakubill.tech/img/jp/webp/IMG_9905.webp)
+![伊丹机场外](https://blog.hakubill.tech/img/jp/webp/s1e4/IMG_9905.webp)
 
 从伊丹机场想要进城，只有一条轨道交通可以乘坐，这就是大阪モノレール（大阪单轨列车）。但是大阪单轨列车并不进城，而是沿着北部外围向东然后向南直到门真市。如果想要进入大阪市区，最好的方案则是坐一站到蛍池駅然后转乘阪急線，可以一直坐到阪急線的大阪梅田駅。如果乘坐快速列车，也不需要花太多的时间。
 
-![大阪モノレール|inline](https://blog.hakubill.tech/img/jp/webp/IMG_9907.webp)
+![大阪モノレール|inline](https://blog.hakubill.tech/img/jp/webp/s1e4/IMG_9907.webp)
 
 我的酒店所在的位置的地名，或者说片区名叫做梅田(うめだ, Umeda)。事实上，大阪駅也在这附近。在大阪站或者说梅田这一片区，有JR的大阪駅、前面提到过的阪急線的大阪梅田駅、阪神本線的大阪梅田駅、还有大阪地下鉄御堂筋線的梅田駅、谷町線的東梅田駅、四つ橋線的西梅田駅、東西線的北新地駅等若干铁路公司的若干不同线路的若干个不同名字的车站。如果有兴趣的话可以打开地图软件即可看到附近了，以下提供Google Map中大阪駅附近的地图供参考：
 
@@ -46,45 +46,45 @@ published: true
 
 上菜是按照特定的顺序依次上菜的。服务员每次来也都会先敲两下门，再打开门进来。不说了，直接看照片就是了，反正看文字也看不出来味道。主要包含前菜、各种部位的牛肉、饭（有点像韩式石锅拌饭）、汤（普通的海带汤）、甜点（杏仁豆腐）等。总之自己烤就对了。
 
-![烤肉套餐](https://blog.hakubill.tech/img/jp/webp/IMG_9908.webp)
+![烤肉套餐](https://blog.hakubill.tech/img/jp/webp/s1e4/IMG_9908.webp)
 
 总之，在日本吃了一顿品质不错的正宗日式烤肉，还是很好的。不过值得一提的是，日式烤肉本身自然是没有盐味的，店家提供了酱油、和烤肉酱等液体调料，也提供了三种不同种类的盐。我也没搞清楚到底啥盐是啥盐，反正我跟人认为加点盐上去吃味道是真不错。
 
 最后吃完饭，我跟たお拿出手机，把Twitter的Profile页面摆在一起，拍了一张赛博合照，留作纪念。
 
-![[我](https://twitter.com/Haku_Bill)与[たお](https://twitter.com/taotao_hoyo)的合照](https://blog.hakubill.tech/img/jp/webp/_DSC0226.webp)
+![[我](https://twitter.com/Haku_Bill)与[たお](https://twitter.com/taotao_hoyo)的合照](https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0226.webp)
 
 吃完饭，正好天就黑了。在附近随便逛逛，中途也还途经了一个电器城，进去看了看日本的电子数码产品，其中Google的柜台还不小，第一次把玩了一下Pixel系列。中国的手机平台则主要是小米和OPPO。
 
 晚上的御堂筋上也不少，而且因为在施工，人行道很大一部分都被拦住了。不过所有人都是井然有序地通行，有一些很窄的路口的红绿灯除了偶尔一些外国人之外也没有人会闯红灯。
 
-![难波南海商业街](https://blog.hakubill.tech/img/jp/webp/_DSC0229.webp)
+![难波南海商业街](https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0229.webp)
 
-![御堂筋上。在日本这是一条挺宽的路了。](https://blog.hakubill.tech/img/jp/webp/_DSC0231.webp)
+![御堂筋上。在日本这是一条挺宽的路了。](https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0231.webp)
 
-![某条小巷。周围的牌子杂乱地亮起各种颜色的灯。](https://blog.hakubill.tech/img/jp/webp/_DSC0234.webp)
+![某条小巷。周围的牌子杂乱地亮起各种颜色的灯。](https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0234.webp)
 
-![御堂筋边上的店铺](https://blog.hakubill.tech/img/jp/webp/_DSC0235.webp)
+![御堂筋边上的店铺](https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0235.webp)
 
-![著名的道頓堀的牌坊](https://blog.hakubill.tech/img/jp/webp/_DSC0236.webp)
+![著名的道頓堀的牌坊](https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0236.webp)
 
-![不知道这叫什么河边的巨大广告牌。大阪的标志之一，也很有日本的感觉。此外，在拍摄这张照片的桥上，还看到有高一的JK在唱歌，唱的还不错。](https://blog.hakubill.tech/img/jp/webp/_DSC0238.webp)
+![不知道这叫什么河边的巨大广告牌。大阪的标志之一，也很有日本的感觉。此外，在拍摄这张照片的桥上，还看到有高一的JK在唱歌，唱的还不错。](https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0238.webp)
 
-![心斎橋筋。人太多了，我们选择绕路。](https://blog.hakubill.tech/img/jp/webp/_DSC0243.webp)
+![心斎橋筋。人太多了，我们选择绕路。](https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0243.webp)
 
-![灯火通明。照片底部是大家都在围观一场魔术表演。](https://blog.hakubill.tech/img/jp/webp/_DSC0244.webp)
+![灯火通明。照片底部是大家都在围观一场魔术表演。](https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0244.webp)
 
 我们一路向北走，最终来到了[Apple 心斎橋](https://www.apple.com/jp/retail/shinsaibashi/)的斜对面。这是Apple在大阪唯一的一家Apple Store零售店。不过今天我们并没有走进去看看。心斋桥也属于是一片地区的地名，不过我问たお这附近是否确实有座叫做心斎橋的橋，他思考了一会之后回答我：“不知道。”（笑）
 
-![Apple 心斎橋。入口左侧上二楼的楼梯及二楼正在封闭维修。](https://blog.hakubill.tech/img/jp/webp/_DSC0248.webp)
+![Apple 心斎橋。入口左侧上二楼的楼梯及二楼正在封闭维修。](https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0248.webp)
 
 此外，在一家商场底部，还看到了推しの子的联动咖啡厅的牌子。不过受限于时间我也没上去看看。
 
-![推しの子联动咖啡厅|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0249.webp)
+![推しの子联动咖啡厅|inline](https://blog.hakubill.tech/img/jp/webp/s1e4/_DSC0249.webp)
 
 虽然我在这里不吝笔墨多次赞赏了我的日本同胞的高素质，不过我还是认为这种在自行车禁止停放区域的牌子下面停自行车的行为很值得拿出来说道说道。大阪人也有他们独有的叛逆。
 
-![自行车“禁止停放”区域（建议改名“优先停放”）|inline](https://blog.hakubill.tech/img/jp/webp/IMG_9931.webp)
+![自行车“禁止停放”区域（建议改名“优先停放”）|inline](https://blog.hakubill.tech/img/jp/webp/s1e4/IMG_9931.webp)
 
 最后我们还是坐地铁回去了。たお跟我一起到我住的酒店，然后我把帮他代购的原神周边交给他。夜灯似乎体积太大没法放进他带来的背包，于是他就只好抱着回去了。最后我们在酒店大堂道别。 ~~顺带吐槽一句，他还把他的口罩和没喝完的咖啡落在我的房间里了。~~
 

@@ -5,8 +5,8 @@ pubDate: 2023-11-11
 description: '「凪のあすから」圣地巡礼 [回乡记S1E7]'
 author: 'Bill Haku'
 cover:
-    url: 'https://blog.hakubill.tech/img/jp/webp/_DSC0482.3.webp'
-    square: 'https://blog.hakubill.tech/img/jp/webp/_DSC0482.3.webp'
+    url: 'https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0482.3.webp'
+    square: 'https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0482.3.webp'
     alt: 'cover'
 tags: ["圣地巡礼", "动漫", "日本", "回乡记", "来自风平浪静的明天", "杂谈", "旅游"]
 theme: 'light'
@@ -48,45 +48,45 @@ published: true
 
 8点57分我们到达海南駅，~~没错我们到海南岛了，真是一场奇妙的空间穿梭之旅啊！~~其实并没有什么特别之处。9点30分，我们从御坊駅出发。从这里开始，我们将会多次有部分区域沿海行驶。事实上，在即将进入临海区段之前，车掌还会广播告知各位旅客请欣赏右侧的海景，并且列车还会减速以便更好欣赏。我由于坐在靠过道的座位，不便使用相机，只好用手机拍了几张。但是离窗户太远，反光被拍入也难以避免。
 
-![波光粼粼](https://blog.hakubill.tech/img/jp/webp/IMG_0073.webp)
+![波光粼粼](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0073.webp)
 
-![与大海同行](https://blog.hakubill.tech/img/jp/webp/IMG_0080.webp)
+![与大海同行](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0080.webp)
 
-![海滩与礁石](https://blog.hakubill.tech/img/jp/webp/IMG_0086.webp)
+![海滩与礁石](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0086.webp)
 
 11点58分我们到达新宮駅。新宫市可能将今天整段旅行中停留的最大的城镇。我们的下一趟列车将会在13点26分发出，因此我们正好有足够的时间在新宫吃一顿午饭，还可以顺便逛一逛这里。离新宫站不远的地方就是一个叫做徐福公园的地方。事实上，整个新宫市附近的区域都有很多与徐福相关的东西，比如登陆地、神社、墓地等——是的，徐福墓不止一个，而且很多，这也增加了很多传说的意味。在这个徐福公园内，就有一个徐福墓。
 
-![新宫市徐福公园。内有徐福像、中国驻日本大使程永华的纪念植树、「秦徐福之墓」的石碑、天保5年儒学家仁井田好古以汉文书写的秦徐福碑（现存之为昭和15年重建）（旁边陪有日文翻译，不过显然对中国人来说是不需要了）等物。](https://blog.hakubill.tech/img/jp/webp/IMG_0087.webp)
+![新宫市徐福公园。内有徐福像、中国驻日本大使程永华的纪念植树、「秦徐福之墓」的石碑、天保5年儒学家仁井田好古以汉文书写的秦徐福碑（现存之为昭和15年重建）（旁边陪有日文翻译，不过显然对中国人来说是不需要了）等物。](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0087.webp)
 
 逛完徐福公园，就往回走到新宫站斜对面的一家罗森。与城市中的便利店不同，乡下的便利店则大多是独栋的一个建筑，配有一个招牌，门口还有停车位。店内的空间也不像城市里的那么拥挤。此外，很多城市里的便利店是不提供座位的，但是乡下的则往往会提供座位。我购买了一份蛋包炒面。店员很热心的指导我微波炉的用法，而且当我吃完问她垃圾桶在哪里时，还特地从柜台跑出来，带我到就在我身后两三米远的垃圾桶，并且帮我推开垃圾桶的挡板让我直接扔进去就好。
 
-![罗森、蛋包炒面和新宫市的一角](https://blog.hakubill.tech/img/jp/webp/IMG_0088.webp)
+![罗森、蛋包炒面和新宫市的一角](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0088.webp)
 
 吃完饭稍事休息，然后走出罗森。前面已经踢到了，罗森就在新宫站的斜对面。罗森门口的路，一条就是新宫站门口沿铁路方向的路，而另一条则通过一个铁路道口穿过铁路。仍在使用的铁路道口在中国大陆十分罕见，不过在日本那是很常见的，而且也常常在动漫里作为名场景或者日常的场景出现。正当我只是想着去拍个照时，发现有一辆キハ25即将准备通过道口。
 
-![新宮第一踏切。左侧就是新宫站场，右边则是通往多気方向的单线紀勢本線。](https://blog.hakubill.tech/img/jp/webp/IMG_0107.webp)
+![新宮第一踏切。左侧就是新宫站场，右边则是通往多気方向的单线紀勢本線。](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0107.webp)
 
 时间快到了。我通过检票口进站，登上这辆开往紀伊長島的キハ25系柴油动车组。虽然只有两辆编组，但是车上也只有几个人。需要特别提及的是，很多行驶于乡村之间的普通列车，都采取了ワンマン列車（一人列车）的运营制度。一般的列车都会至少有驾驶员和车掌两人，此外还会有站台上的工作人员，不过这种乡村间的列车，有些车站所在的村镇也总共才住了一两百人，车站一天的平均乘降人次可能也就几人、十几二十人，因此没有给这些车站安排任何站台上的工作人员（称之为无人站），而列车上因为也没太多人，因此则由司机一人承担了除驾驶以外的检票、报站、开关门、和各种行政工作。我们称这种运营方式的列车为一人列车。如果你像我一样使用JR Pass（其他Pass同理）的话，则很简单，也不需要去管复杂的规则，如果有人找你就展示一下JR Pass即可。但是一般情况下，搭乘一人列车上下车的方式则需要根据车站是有人站还是无人站。总的来说，如果是有人站，则上车前或者下车后在站厅处理票务即可，而如果是无人站，则需要在车上处理票务。上车时，需要从第一节车厢的最后的门上车，然后会看到一台写着「整理券機」的机器，从中取一张票即可，上面往往会写着代表本站编号的数字，代表你从本站上车，以便下车时好计算车费。而下车时，则需要从第一节车厢的最前面的门下车，你会发现车门与司机的驾驶室之间会有一台投钱的机器。司机会在停车后站在这个机器后面监督票务。如果你使用的是车票，投入车票即可。如果你在上车时领取了整理券，则需要抬头找到车厢前端一块屏幕，上面会写着车站的编号和对应的到本站的车费（運賃），你则需要根据显示的车费投入对应的现金。当然，这台机器也可以提供找零。有关更详细的介绍，可以查看[这篇博客](https://maptabi.wordpress.com/2017/01/03/train6/)。此外还需要特别提醒的是，很多无人站点由于利用的人次较少，为了节约能源和在夏冬季保存车内的冷暖气，车门不会自动打开，而是需要乘客手动按按钮车门才会打开。上下车的时候都是同理，需要在车门旁按按钮。
 
-![紀伊長島行き キハ-25|inline](https://blog.hakubill.tech/img/jp/webp/IMG_0111.webp)
+![紀伊長島行き キハ-25|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0111.webp)
 
 从同好的记录来看，紀勢本線上使用的列车似乎在近十年内已经发生了变化。在动画中和早期的巡礼（例如本文开头提及的作为参考的博客）的记录来看，使用的是面对面两三人对坐的座椅，但是现在的车厢中，都是一排长排的座椅。虽然这也是很经典的日本的电车内的座椅样式，但是与动画中本来的样式已经不一样了还是有点遗憾。
 
-![没有人的电车座椅。也许也有来自二次元的JK坐在那里，只是我们看不见。|inline](https://blog.hakubill.tech/img/jp/webp/IMG_0114.webp)
+![没有人的电车座椅。也许也有来自二次元的JK坐在那里，只是我们看不见。|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0114.webp)
 
-![动画中的电车内的座椅（动画OP1）|inline](https://blog.hakubill.tech/img/jp/webp/IMG0114.1.webp)
+![动画中的电车内的座椅（动画OP1）|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG0114.1.webp)
 
 坐在这辆普通列车上，就很有跟着动漫里的角色坐在一起的感觉了。我也按照参考的巡礼记录中所推荐的，摸出了我的「凪のあすから」的歌单，从「mnemonic」开始听。列车慢慢地与轨道发出规律的声音，窗外就是大海，搭配这个音乐，非常有感觉。如果你订阅了Apple Music，你可以直接在下面播放。
 
 <iframe id="embedPlayer" src="https://embed.music.apple.com/jp/album/mnemonic/1650527586?i=1650527588&amp;app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
-![在紀勢本線上听「凪のあすから」的歌单。当时我还在使用QQ音乐，不过现在已经换到了Apple Music。不过Apple Music中国大陆区并没有这几首歌，所以这个当时建立的歌单我还一直保留在QQ音乐里。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0380.1.webp)
+![在紀勢本線上听「凪のあすから」的歌单。当时我还在使用QQ音乐，不过现在已经换到了Apple Music。不过Apple Music中国大陆区并没有这几首歌，所以这个当时建立的歌单我还一直保留在QQ音乐里。|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0380.1.webp)
 
-![紀勢本線|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0385.webp)
+![紀勢本線|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0385.webp)
 
 虽然时间才是下午14:02，在经过熊野市駅时，有很多高中生似乎已经是放学了，坐上了本次列车。事实上，这一片地区都属于熊野市的管辖范围，这些高中生就应该是沿线的村镇的学生，集中到附近的城市里上学。按照我对日本的高中的了解，下午一两点可能确实就是放学的时间，有些同学会留在学校参加社团活动，比如田径部、古典文学部、轻音部，也可能有抽象一些的围棋足球部、工程维修部之类的，而有些则会直接回家（归家部）。恐怕这些就是归家部的同学了。
 
-![归家部的同学们|inline](https://blog.hakubill.tech/img/jp/webp/IMG_0119.webp)
+![归家部的同学们|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0119.webp)
 
 ## 圣地巡礼之旅
 
@@ -96,57 +96,57 @@ published: true
 
 <iframe id="embedPlayer" src="https://embed.music.apple.com/jp/album/lull-%E3%81%9D%E3%81%97%E3%81%A6%E5%83%95%E3%82%89%E3%81%AF/1650527493?i=1650527494&amp;app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
-![新鹿駅|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0402.webp)
+![新鹿駅|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0402.webp)
 
-![目送车辆离开。由于这里都是单线，旁边有一辆车在待避等候通过。有几个JK和DK跟我一起下车，不过他们自然是下车就走掉了，我则留在站台上拍了很多照片。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0403.webp)
+![目送车辆离开。由于这里都是单线，旁边有一辆车在待避等候通过。有几个JK和DK跟我一起下车，不过他们自然是下车就走掉了，我则留在站台上拍了很多照片。|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0403.webp)
 
-![新鹿駅|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0404.webp)
+![新鹿駅|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0404.webp)
 
-![新鹿駅站房。从站台直接通过平交道口穿过旁边的轨道，便通向新鹿站的站房。本站于1956年（昭和31年）开业，直到1983年（昭和58年）转为无人化车站。不过直到1982年管理站仍然会派遣职员在本站销售车票。站厅入口左边的箱子上写着「请将从乘车站到来本站的运费以及车票等放进这个箱子里」。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0415.webp)
+![新鹿駅站房。从站台直接通过平交道口穿过旁边的轨道，便通向新鹿站的站房。本站于1956年（昭和31年）开业，直到1983年（昭和58年）转为无人化车站。不过直到1982年管理站仍然会派遣职员在本站销售车票。站厅入口左边的箱子上写着「请将从乘车站到来本站的运费以及车票等放进这个箱子里」。|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0415.webp)
 
-![新鹿駅站房内。这些卷帘门似乎已经很久没有打开过了。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0416.webp)
+![新鹿駅站房内。这些卷帘门似乎已经很久没有打开过了。|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0416.webp)
 
-![新鹿駅站房。不大，有点破旧，也很简陋。|inline](https://blog.hakubill.tech/img/jp/webp/IMG_0121.webp)
+![新鹿駅站房。不大，有点破旧，也很简陋。|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0121.webp)
 
 新鹿站位于新鹿町的高地之上，门口还有很大的空地，因为这里似乎是村民的海啸避难所之类的地方。新鹿站门口只有一条路，在下方的地图上看起来就是新鹿站北面南北方向的沿着铁路那一条小路。在下方的地图上，我选择了新鹿邮局作为分享的中心，因为我们在新鹿町的绝大多数POI（兴趣点）（请原谅我不知道该使用什么词了，只好使用这个在图像识别人工智能研究领域常见的术语来描述，顾名思义就是我们感兴趣的点，具体可以看[Wikipedia](https://zh.wikipedia.org/zh-hans/興趣點)）都在这个邮局附近。
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2474.317182051947!2d136.14561285596744!3d33.92937130510703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6006775b726a5189%3A0x19c78c091a48ddb2!2sAtashika%20Post%20Office!5e0!3m2!1szh-CN!2sjp!4v1699457820317!5m2!1szh-CN!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-![新鹿町 站门口的小路|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0420.webp)
+![新鹿町 站门口的小路|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0420.webp)
 
 一路下坡，很快就能看到一条大路。不过其实也没有太宽，最多也就并排两辆车。不过这里没想到还遇到了公交车，似乎好几个小时才会有一班。这里沿路还有几家商店，不过都大门紧闭我也不知道开门没有。
 
-![新鹿町 一条大路|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0426.webp)
+![新鹿町 一条大路|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0426.webp)
 
-![竹本魚店|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0427.webp)
+![竹本魚店|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0427.webp)
 
 沿着这条路一直走到头，便是国道311号。在往前就到了海边。其实准确说应该是堤坝。登上去搂了一眼。这个堤坝让我想起了AIR里面的那个海边的堤坝。虽然不完全一样，但是大体上就是那个样式的。当然作为一个在内陆长大的人，对海边的印象本就不深，最多就是沙滩，海浪之类的。这种海边的堤坝还是第一次见。
 
-![站在堤坝上。其实照片视角的左边就是大海，不过有一排树遮挡了视线，拍照的效果也不好。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0434.webp)
+![站在堤坝上。其实照片视角的左边就是大海，不过有一排树遮挡了视线，拍照的效果也不好。|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0434.webp)
 
 回到国道311号上。按照刚才过来的方向来说，我先右转往南走，也就是往新鹿邮局的方向。邮局应该算是这次的第一个巡礼点了。
 
-![新鹿郵便局。到现在邮局的招牌和建筑已经做了一些装修了，与动画中有些不同。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0467.1.webp)
+![新鹿郵便局。到现在邮局的招牌和建筑已经做了一些装修了，与动画中有些不同。|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0467.1.webp)
 
 然后旁边不远就是动画里经常出现的杂货店。
 
-![清七屋ストア。截图于OP1中。あかり上班的地方，一家普通的杂货店。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0436.1.webp)
+![清七屋ストア。截图于OP1中。あかり上班的地方，一家普通的杂货店。|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0436.1.webp)
 
-![或者是这样P到一起，也就是所谓的打破次元壁，会不会更有意思一点呢？](https://blog.hakubill.tech/img/jp/webp/_DSC0436.3.webp)
+![或者是这样P到一起，也就是所谓的打破次元壁，会不会更有意思一点呢？](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0436.3.webp)
 
 继续走，很快就走到了堤岸的上面。左边看过去，就是大海了。不过准确的说，我们离大海还隔了一条小河。这条小河离大海只有不到20米远就可以入海了，但是却被一块沙洲隔离开来，一直沿着海岸线流了好几百米才得以入海。地图上显示国道旁边是一块露营地，不知道夏天这里会不会有人来露营。然后便是地图上显示的新鹿海水浴场。虽然气温还有二十多度，但是完全不像会有人来这游泳的样子。
 
-![一排桥墩。在动画中也经常出现这个场景，但是动画里的桥墩很高，而且给人一种还未修好的感觉。不过现实里这里的桥墩很小，大概只有不到一米高，而且锈蚀等使用过的痕迹很多，应该是不知道多少年前曾经有桥方便游客跨过这条小河到海边的沙洲去，不过后来把桥板拆了，只留下这些桥墩了。桥墩上有些已经是歪着的，有些还保持直立的钢筋，可能是以前用于固定桥两边的扶手或护栏用的。|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0446.webp)
+![一排桥墩。在动画中也经常出现这个场景，但是动画里的桥墩很高，而且给人一种还未修好的感觉。不过现实里这里的桥墩很小，大概只有不到一米高，而且锈蚀等使用过的痕迹很多，应该是不知道多少年前曾经有桥方便游客跨过这条小河到海边的沙洲去，不过后来把桥板拆了，只留下这些桥墩了。桥墩上有些已经是歪着的，有些还保持直立的钢筋，可能是以前用于固定桥两边的扶手或护栏用的。|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0446.webp)
 
 下到海边的步道上，可以看出来这里似乎偶尔还有活动。一切都有所打理，旁边还有几个工人在一辆小货车旁边不知道正在干些什么。这里还有新鹿町唯一的一个公共厕所。最后我一直走到这条河的入海口的位置，如果你看上面我给出的地图的话，则需要往下拖动一下才能看到。
 
-![入海口](https://blog.hakubill.tech/img/jp/webp/_DSC0455.webp)
+![入海口](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0455.webp)
 
 真是一条小河啊。入海口最窄的地方可能也就两米宽。不过最终还是流进了无尽的大海，无尽的太平洋。这里的海湾被叫做新鹿湾。而抬头往远处看不远，就是新鹿渔港。是不是跟动画里的一模一样？！那看来，住在海底的まなか她们，是不是就是从这里上岸的呢？说不定我也可以去码头捞一只まなか回来？
 
-![新鹿渔港](https://blog.hakubill.tech/img/jp/webp/_DSC0456.webp)
+![新鹿渔港](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0456.webp)
 
-![抓到一只まなか（动画第1话3分31秒）|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0456.2.webp)
+![抓到一只まなか（动画第1话3分31秒）|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0456.2.webp)
 
 周围十分安静。只有海浪一直拍打着岸边，偶尔还有鸟叫。我在海边站了好长一段时间。首先是走了好远，有点累了。此外，也是在享受这独属我一人的海边。我蹲下看着拍打到我脚边的海水，清澈透明。摸了一下，十分清凉。
 
@@ -160,69 +160,69 @@ published: true
 
 > 「海の色。大地の色。風の色。心の色。君の色。」
 
-![「海的颜色。大地的颜色。风的颜色。心的颜色。你的颜色。」高中时我把这张图设置成了我的小米手环的表盘背景。在那个远离电子设备的时候，还好我能够抬手在手环上看到这个みうな，即使只是一张图，也足够治愈了。|inline](https://blog.hakubill.tech/img/jp/IMG_2746.jpg)
+![「海的颜色。大地的颜色。风的颜色。心的颜色。你的颜色。」高中时我把这张图设置成了我的小米手环的表盘背景。在那个远离电子设备的时候，还好我能够抬手在手环上看到这个みうな，即使只是一张图，也足够治愈了。|inline](https://blog.hakubill.tech/img/jp/s1e7/IMG_2746.jpg)
 
 ---
 
 我在新鹿町的时间只有两小时多一点。而且走路也走的太累，只好放弃前往新鹿渔港，掉头沿着311国道回去。在那个路口的另一边，也有一些值得看的东西。
 
-![国道311号|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0460.webp)
+![国道311号|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0460.webp)
 
 现在日本的老龄化和少子化的问题确实很严重。很多乡村的人口都在减少，因为年轻人都去东京大阪这些大城市找工作，只有老年人还留在乡下了，跟中国的情况有点相似。在这里能看到许多无人居住的房屋，破败的招牌，搬走的告示，失修的痕迹。新鹿站的平均一天乘车人数从1998年的166人，也下降到了2019年的47人。见到的几个路人里，也没有一个年轻人。
 
-![路边的空地和破败的招牌|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0461.webp)
+![路边的空地和破败的招牌|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0461.webp)
 
 重新回到刚才从新鹿站下来的那个路口，再往前走，很快就到了一座桥。这座桥下的河其实就是刚才我们看到的入海的那条河。而这座桥则是动画里经常出现的一个场景了。
 
-![桥头。出自动画第17话9分13秒。我发现我好喜欢这种跨越次元壁的感觉，给人一种理想中的情景就尽在眼前的感觉。虽然在拍摄的时候没有仔细比较原图的角度和透视啥的，但是三个人、栏杆、桥头的石柱、还有右边的三轮车，都意外地很完美的融合进了这个场景里。](https://blog.hakubill.tech/img/jp/webp/_DSC0470.1.webp)
+![桥头。出自动画第17话9分13秒。我发现我好喜欢这种跨越次元壁的感觉，给人一种理想中的情景就尽在眼前的感觉。虽然在拍摄的时候没有仔细比较原图的角度和透视啥的，但是三个人、栏杆、桥头的石柱、还有右边的三轮车，都意外地很完美的融合进了这个场景里。](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0470.1.webp)
 
 桥下还有一个角度。这也是本文封面的图片。
 
-![桥下。同出自动画第17话。距离制作组在这里取景，肯定是十几年都过去了，但是没想到这里还是没啥变化。无论是栏杆边的牌子还是人物背后的小房子的卷帘门，都还是一模一样，甚至桥下河道里的石头，似乎都差不多。](https://blog.hakubill.tech/img/jp/webp/_DSC0482.4.webp)
+![桥下。同出自动画第17话。距离制作组在这里取景，肯定是十几年都过去了，但是没想到这里还是没啥变化。无论是栏杆边的牌子还是人物背后的小房子的卷帘门，都还是一模一样，甚至桥下河道里的石头，似乎都差不多。](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0482.4.webp)
 
 而在河里顺着河往上游，也就是紀勢本線铁路的方向走的话，就能找到动画里也常出现的火车桥下的场景了。
 
-![紀勢本線桥下|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0472.webp)
+![紀勢本線桥下|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0472.webp)
 
-![紀勢本線桥下（动画中）|inline](https://blog.hakubill.tech/img/jp/webp/_DSC0472.2.webp)
+![紀勢本線桥下（动画中）|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0472.2.webp)
 
 至此，我在新鹿町的所有计划的巡礼点就结束了。随后继续在新鹿町里转一转，看看这个十分普通的海边小镇。虽然还没开始上班，但是这个地方真是一个绝佳的适合养老的地方。反正还有那么多空地，买一块修一栋房子就住在这算了，这种也没多少人的地方应该也不贵。清净，环境好、气候也不错，简直就是我理想中的养老地。
 
-![新鹿町](https://blog.hakubill.tech/img/jp/webp/_DSC0485.webp)
+![新鹿町](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0485.webp)
 
 在地图上显示有一些小路也可以走到车站门口的路上。虽然过来的时候看到了几条小路但是没有走，于是决定现在回去的时候就走这些小路。两边的房子有些还挺新的，有些似乎已经很陈旧了，不过几乎也没传出来什么声音，不知道有没有人住。
 
-![新鹿町的一个小路路口。顺便值得一提的是，在新鹿町这种海边的小镇，如同照片中电线杆上标准当地海拔的标志随处可见，这是为了当有海啸来临时居民可以评估所在地的安全情况，并且随处也可见用于海啸避难的高地的方向指示。](https://blog.hakubill.tech/img/jp/webp/_DSC0492.webp)
+![新鹿町的一个小路路口。顺便值得一提的是，在新鹿町这种海边的小镇，如同照片中电线杆上标准当地海拔的标志随处可见，这是为了当有海啸来临时居民可以评估所在地的安全情况，并且随处也可见用于海啸避难的高地的方向指示。](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0492.webp)
 
-![新鹿町的小路](https://blog.hakubill.tech/img/jp/webp/_DSC0497.webp)
+![新鹿町的小路](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0497.webp)
 
-![新鹿町的小路](https://blog.hakubill.tech/img/jp/webp/_DSC0500.webp)
+![新鹿町的小路](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0500.webp)
 
 最后回到了新鹿站。在等车来的过程中，再在候车室和站台到处拍了一些照片。
 
-![紀勢本線上行方向](https://blog.hakubill.tech/img/jp/webp/_DSC0511.webp)
+![紀勢本線上行方向](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0511.webp)
 
-![新鹿站的候车室。虽然不太相关，但是让我想到了秒速五厘米里面的候车室。](https://blog.hakubill.tech/img/jp/webp/_DSC0520.webp)
+![新鹿站的候车室。虽然不太相关，但是让我想到了秒速五厘米里面的候车室。](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0520.webp)
 
 16点23分，开往新宫方向的列车准时到站发出。我只需要坐一站，3分钟就可以到下一站波田須了。
 
-![次は 波田須](https://blog.hakubill.tech/img/jp/webp/_DSC0521.webp)
+![次は 波田須](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0521.webp)
 
 ### 波田須
 
 也许你已经觉得上一站新鹿站和新鹿町已经是一个很小的地方了，但是波田須駅和其所在的波田須町就更小了。新鹿町2019年的人口是747人，车站平均每日乘车人数是47人，而波田須町在2023年的人口是136人，波田須駅在2019年的平均每日乘车人次只有19人，在2010年到2013年这期间甚至平均每日乘车人数不足10人。新鹿站至少还有一台两面两线，还有一个小候车室，而波田須站就只有一面一线，也没有候车室，只有小小的一个棚子，里面有三个座椅。这里也没有站前广场，出站之后的路也非常狭窄。总之，绝对是难以想象的小站。这种人车罕至，乘车人也稀少的车站，在日语中还专门有个词用以描述：[秘境駅](https://ja.wikipedia.org/wiki/秘境駅)。
 
-![目送这辆开往新宫的车离去](https://blog.hakubill.tech/img/jp/webp/_DSC0524.webp)
+![目送这辆开往新宫的车离去](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0524.webp)
 
-![波田須駅。没错，整个车站就这么小个站台，一条铁路，没有别的了。](https://blog.hakubill.tech/img/jp/webp/_DSC0528.webp)
+![波田須駅。没错，整个车站就这么小个站台，一条铁路，没有别的了。](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0528.webp)
 
-![波田須駅的候车棚。没错，不能叫候车厅，也难以称之为候车室，跟公交站的候车棚差不多，恐怕也只能这样称呼之了。虽然很小，每天似乎也没几个人来坐车，但是里面的三个座椅意外的干净。](https://blog.hakubill.tech/img/jp/webp/_DSC0534.webp)
+![波田須駅的候车棚。没错，不能叫候车厅，也难以称之为候车室，跟公交站的候车棚差不多，恐怕也只能这样称呼之了。虽然很小，每天似乎也没几个人来坐车，但是里面的三个座椅意外的干净。](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0534.webp)
 
-![眺望熊野滩。这个站的风景意外的不错。](https://blog.hakubill.tech/img/jp/webp/_DSC0537.webp)
+![眺望熊野滩。这个站的风景意外的不错。](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0537.webp)
 
 其实到了这个站，就是一个巡礼的点。这个隧道洞口给人的印象还挺深的。不过作画的角度似乎是站在铁轨的外侧拍的，虽然我也有点想跳下站台去拍的冲动，但是还是担心安全，以及这个站台看起来不低，还背着很重的包，如果半天上不去也很麻烦。所以只好站在站台上拍下了这个隧道洞口。
 
-![隧道洞口](https://blog.hakubill.tech/img/jp/webp/_DSC0539.webp)
+![隧道洞口](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0539.webp)
 
 ![隧道洞口（动画中，第1话16分38秒处）](https://blogimg.goo.ne.jp/user_image/4f/46/2afd0997f379f57222d3bbb9127a49fc.jpg)
 
@@ -232,19 +232,19 @@ published: true
 
 波田須被认为是最有可能的徐福的登陆地点。这里有祭祀徐福的「徐福之宫」，还是在有登陆地传说的地方中唯一发现了「秦半两」钱的地方。
 
-![波田須駅门前的小路。真不愧是称之为秘境站的地方，这里距离车站的入口不到20米远，但是远处的铁轨只是若隐若现，站台完全发现不了，只有候车棚漏出了一个小角落，不仔细看也很难发现。如果不是只走出了几步远，很难让人不怀疑是不是走错路了。](https://blog.hakubill.tech/img/jp/webp/_DSC0545.webp)
+![波田須駅门前的小路。真不愧是称之为秘境站的地方，这里距离车站的入口不到20米远，但是远处的铁轨只是若隐若现，站台完全发现不了，只有候车棚漏出了一个小角落，不仔细看也很难发现。如果不是只走出了几步远，很难让人不怀疑是不是走错路了。](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0545.webp)
 
-![熊野滩。沿着这条路走不了多久就登上了挺高的地方，发现熊野滩的风景也确实不错。|wide](https://blog.hakubill.tech/img/jp/webp/_DSC0549.webp)
+![熊野滩。沿着这条路走不了多久就登上了挺高的地方，发现熊野滩的风景也确实不错。|wide](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0549.webp)
 
-![波田須町的一户人家。非常日式的房子，所以就拍下来了。此外，路过某一户房子的时候，还听到里面传来了电视机的声音，让我觉得我还在人间。](https://blog.hakubill.tech/img/jp/webp/_DSC0560.webp)
+![波田須町的一户人家。非常日式的房子，所以就拍下来了。此外，路过某一户房子的时候，还听到里面传来了电视机的声音，让我觉得我还在人间。](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0560.webp)
 
 波田須町分布在山上，路的坡度很大，这也难怪地图上看着不远的天女座咖啡厅却要绕一个大圈还要上坡才能到达。最终我走到了国道311号这条大路上，就掉头回去了。
 
-![熊野滩太好看了，再发一张。简直是壁纸级的风景。](https://blog.hakubill.tech/img/jp/webp/_DSC0551.webp)
+![熊野滩太好看了，再发一张。简直是壁纸级的风景。](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0551.webp)
 
 最后提前3分钟回到了波田須駅，发现旁边还有一个厕所很突出地站在那里，让人难以忍受住不去使用它的心情。于是就去上了个厕所。即使是在这种只有一百多人住的村子里，日本的厕所还是如此干净，小便器的自动冲水也能正常工作，水龙头的开关转动流畅，水也是清澈明亮。厕所全无异味，更没有蚊虫污渍，真是令人感动了。即使是成都市的高级商场，能做到这个程度的也不多见。
 
-![波田須駅的厕所](https://blog.hakubill.tech/img/jp/webp/_DSC0572.webp)
+![波田須駅的厕所](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0572.webp)
 
 开往多気的列车驶来。登上车，今天的圣地巡礼之旅就算基本结束了。
 
@@ -254,19 +254,19 @@ published: true
 
 到了紀伊長島的时候，天已经完全黑了下来。这是个大站，还是有不少人下车，而且还有个有人站。不过很快下车的人们走出这个并不大的站厅，整个车站和周围就迅速安静了下来。我将在这里停留大约40分钟，本想出去看看有没有什么可以吃晚饭的地方，但是走在大路上，周围却是安静地令人感到害怕。如果这里不是日本，我应该是不敢在这路上行走的。虽然只是下午六点钟，但是街上一个人也没有，商铺也没有几个，而且也没啥灯光，甚至路灯也很昏暗或者没有，只有偶尔经过的汽车的大灯照亮道路。
 
-![紀伊長島駅](https://blog.hakubill.tech/img/jp/webp/_DSC0580.webp)
+![紀伊長島駅](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0580.webp)
 
-![紀伊長島駅附近](https://blog.hakubill.tech/img/jp/webp/_DSC0576.webp)
+![紀伊長島駅附近](https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0576.webp)
 
 从未有过的安静感。以至于我拍下了这段视频，尝试记录一下这种感觉。不过晚上拍出来画质又不太好，由于网站的文件大小的限制，只能再将视频进一步压缩。
 
-<video id="video" controls="" preload="none" poster="https://blog.hakubill.tech/img/jp/webp/_DSC0576.webp" width="100%">
+<video id="video" controls="" preload="none" poster="https://blog.hakubill.tech/img/jp/webp/s1e7/_DSC0576.webp" width="100%">
       <source id="mp4" src="https://blog.hakubill.tech/video/kii-nagashima.mp4" type="video/mp4">
 </videos>
 
 于是只好回到候车室里，在候车室里闲逛。发现出口旁边的一个小桌子上，摆放着本子和笔。仔细一看，原来是紀伊長島駅提供的「たびノート（旅行笔记）」。作为铁路文化的一部分，很多日本的车站都会提供这种「旅行笔记」的本子，供游客写下此次旅途的感想之类的。目前的已经是第三本了，也就是说明前两本已经被写满了。果然在下面就找到了第一本和第二本，翻看了一下第一本的内容，似乎是从2017年开始的。日本各地的游客都来这里写下了或长或短的话，有的还有可爱的涂鸦，然后车站的工作人员也会在后面留下感谢的语言。粗略翻看了一下，似乎所有人都很认真地在对待这个本子，没有在上面乱吐乱画，更没有残缺破损。目前的第三本是从2021年开始写起的，两年过去了写满了大半了，不过仍然非常完好。最后一条留言没有具体的日期，而这之前的一条是10月4日的日期。反正闲着没有事干，我也在最后随便写上了几句。
 
-![たびノート|wide](https://blog.hakubill.tech/img/jp/webp/IMG_0182.webp)
+![たびノート|wide](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0182.webp)
 
 我的留言如下：
 
@@ -278,17 +278,17 @@ published: true
 
 而旁边是两台自动贩卖机。除了饮料，我惊喜地发现，居然还有卖压缩饼干。看来我不用继续空着肚子坐两个多小时火车了。然后顺便买了一杯绿茶，便是今晚的晚饭了。总价240日元，坐在候车室的椅子上吃完了。可谓是在日本最便宜也是最寒酸的一顿饭。
 
-![晚饭|inline](https://blog.hakubill.tech/img/jp/webp/IMG_0185.webp)
+![晚饭|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0185.webp)
 
 18点40分，坐上了开往名古屋的南紀8号特急列车。然后再在松阪駅换乘近鉄线，并在大和八木駅和大和西大寺再换乘两次，最后终于在21点27分准点到达近鉄奈良駅。由于在松阪駅时我直接从JR线换乘到了近铁线，且时间较紧我就没有购买车票，只买了特急券，然后一路坐到奈良。因此最后还在奈良站找工作人员补票。
 
 最后终于到了我预定的酒店。一个很大的和室，而且还提供了澡堂（虽然我没去），在房间里的浴缸里放上热水准备好好休息一下。值得一提的是此时电视上正好在播放日本电视台的「月曜から夜ふかし」（常被译作「月曜夜未央」），一档著名的街头采访节目，我在中国的时候就经常看，没想到正好这期播放的是到成都来采访的故事，真是位置互换了。如果你感兴趣的话，可以[前往Hulu观看](https://www.hulu.jp/watch/100162726)。微博也有字幕组搬运并翻译了本节目，你可以去[这里](https://weibo.com/7389331494/NocveujDQ)观看上篇并在其链接中找到下篇。
 
-![奈良的酒店和和室房间|inline](https://blog.hakubill.tech/img/jp/webp/IMG_0200.webp)
+![奈良的酒店和和室房间|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0200.webp)
 
 那么本期就到此结束了。今日总共行程549千米，从大阪府大阪市出发，途径和歌山县、三重县，最后到达奈良县奈良市。沿着紀勢本線等铁路，基本环绕了纪伊半岛一圈，看到了西日本和太平洋沿岸美丽的风景。本篇也是本系列目前为止最长的一篇，感谢你能够看到这里。今晚好好休息，下一集我们将前往奈良公园。
 
-![今日行程。虽然直线距离很短，结果却坐了8个半小时的火车，轨迹549千米，也是迄今为止在日本最伟大的壮举。|inline](https://blog.hakubill.tech/img/jp/webp/IMG_0206.webp)
+![今日行程。虽然直线距离很短，结果却坐了8个半小时的火车，轨迹549千米，也是迄今为止在日本最伟大的壮举。|inline](https://blog.hakubill.tech/img/jp/webp/s1e7/IMG_0206.webp)
 
 本集行程：
 
