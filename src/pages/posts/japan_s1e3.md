@@ -56,7 +56,7 @@ JAL和ANA对于日本的国内线似乎尽管是经济舱也会提供免费的Wi
 
 <iframe width="100%" height="367" src="https://www.youtube.com/embed/yhYaa7YAFDs?si=VrhUMqcyFqU0YEYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![伊丹机场航站楼内和拉面](https://blog.hakubill.tech/img/jp/webp/s1e3/IMG_9900.webp)
+![伊丹机场航站楼内和拉面|inline](https://blog.hakubill.tech/img/jp/webp/s1e3/IMG_9900.webp)
 
 吃完饭后，正好发现刚刚乘坐的航班正在推出，于是正好得以从侧面拍下这架彩绘机的涂装。于是这便是本篇的封面图了。
 

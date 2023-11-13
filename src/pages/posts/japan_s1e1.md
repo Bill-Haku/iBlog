@@ -62,9 +62,9 @@ published: true
 
 起飞前乘务员询问我要选择哪种早餐。想着刚在休息室吃了面，于是就决定来一份西式早餐吧。同时饮料选择了茶。于是起飞后不久，进入平飞之后，我正准备躺下休息一下，乘务员就来给我铺桌布了。我只好再把座位调直坐起来。首先给我上了茶。然后很快就给我端来了早餐。
 
-![茶](https://blog.hakubill.tech/img/jp/webp/s1e1/IMG_9818.webp)
+![茶|inline](https://blog.hakubill.tech/img/jp/webp/s1e1/IMG_9818.webp)
 
-![东航商务舱西式早餐](https://blog.hakubill.tech/img/jp/webp/s1e1/_DSC0124.webp)
+![东航商务舱西式早餐|inline](https://blog.hakubill.tech/img/jp/webp/s1e1/_DSC0124.webp)
 
 早餐的内容就是菜单上的那一套。此外就是几块水果，一块面包，一杯酸奶。但是老实说这个早餐确实很西方。我不知道是不是欧洲美国人都是这样的，反正感觉没啥盐味。不过分量还是有的，加上在休息室吃了早餐也没多久，填饱肚子肯定没问题。
 
