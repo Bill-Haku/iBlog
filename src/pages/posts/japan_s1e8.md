@@ -11,7 +11,7 @@ cover:
 tags: ["日本", "回乡记", "杂谈", "旅游"]
 theme: 'light'
 featured: true
-published: false
+published: true
 ---
 
 ## 鹿🦌与奈良公园
@@ -48,7 +48,7 @@ published: false
 
 ![春日大社参道旁的灯笼/常夜灯](https://blog.hakubill.tech/img/jp/webp/s1e8/_DSC0624.webp)
 
-走了几百米，路边的鹿还是随处可见。路上的游客不多，虽然各国游客都有，不过只有一群中国人大声说话非常吵闹。快步超过这群中国人，突然得意抓拍到这张目前为止我最喜欢的照片。
+走了几百米，路边的鹿还是随处可见。路上的游客不多，虽然各国游客都有，不过只有一群中国人大声说话非常吵闹。快步超过这群中国人，突然得以抓拍到这张目前为止我最喜欢的照片。
 
 ![我不好说这张照片到底好在哪里，不过大概就是这个可爱的小女孩和可爱的鹿之间的可爱的动作，充满了人与自然的可爱吧。|wide](https://blog.hakubill.tech/img/jp/webp/s1e8/_DSC0635.webp)
 
@@ -92,4 +92,4 @@ published: false
 
 这里附近就是一片商业区了。既有传统的餐厅、和服店，也有星巴克这种现代的餐厅。最后我在一条商业街里的餐馆里吃了一顿名为「つけ麺」（沾面）的套餐作为午饭。至此我们的奈良之旅就结束了。接下来我将去前往奈良站搭乘みやこ路快速沿着奈良线前往京都。我们下集见。
 
-![つけ麺](https://blog.hakubill.tech/img/jp/webp/s1e8/IMG_0240.webp)
+![つけ麺|inline](https://blog.hakubill.tech/img/jp/webp/s1e8/IMG_0237.webp)
