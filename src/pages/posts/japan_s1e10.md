@@ -72,3 +72,25 @@ published: false
 ![七条大桥前的晚霞与航迹云。出电车站，抬头便是这样的景象。值得一提的是，在日本航迹云似乎很常见。不知是因为日本的航线密度比较高还是因为日本的气候跟利于航迹云的形成。](https://blog.hakubill.tech/img/jp/webp/s1e10/IMG_0300.webp)
 
 ![鸭川](https://blog.hakubill.tech/img/jp/webp/s1e10/IMG_0302.webp)
+
+### 渡月桥 岚山
+
+从京都駅乘坐嵯峨野線7站即可到达嵯峨嵐山駅。在这里附近，有三家电车公司的四个车站。除了JR嵯峨野線的嵯峨嵐山駅以外，还有JR嵯峨野観光線的嵯峨嵐山駅、京福電気鉄道嵐山本線的嵐山駅、以及阪急電鉄嵐山線的嵐山駅。JR的两条线路的车站实际上是挨在一起的，三个站分别位于岚山山脚下的区域的桂川的两侧。桂川正是从岚山的峡谷中流出，然后从京都市的西边流过。而就在桂川刚刚流出山谷进入平原的地方，便有一座桥梁横跨两岸，这便是渡月桥。
+
+<iframe id="embedPlayer" src="https://embed.music.apple.com/jp/album/%E6%B8%A1%E6%9C%88%E6%A9%8B-%E5%90%9B-%E6%83%B3%E3%81%B5/1298566573?i=1298566995&amp;app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
+
+我初次认识渡月桥，便是仓木麻衣的这一首「渡月橋 ~君 思ふ~」，出自《名侦探柯南・唐红的恋歌》。无论是渡月桥其名，还是这首歌的旋律与演唱，让人感受到一种富含千年历史的日式的古典气息。不过，「渡月桥上渡月人，人走桥留水映月」。渡月桥的美丽，不在于其本身，也与周围的风景关系不大，而是渡月桥所守望者的这片土地，千百年来无数人的生活、人的情感、人的思念。
+
+![渡月桥](https://blog.hakubill.tech/img/jp/webp/s1e10/_DSC0962.webp)
+
+![渡月桥边的河堤上的JK们](https://blog.hakubill.tech/img/jp/webp/s1e10/_DSC0967.webp)
+
+![站在渡月桥上看岚山。深秋之时岚山的满山红叶非常好看，可惜我去时时候尚早。](https://blog.hakubill.tech/img/jp/webp/s1e10/_DSC0979.webp)
+
+![渡月桥|inline](https://blog.hakubill.tech/img/jp/webp/s1e10/_DSC0980.webp)
+
+从渡月桥走到中之岛，便是岚山公园的中之岛地区。再往南走跨国渡月小桥则是到了桂川的南岸。然后便可以再返回到北岸了。由于乘坐嵯峨野观光线需要提前买票，我便沿着桂川向上游走，到达岚山公园的龟山地区，远眺岚山。在龟山公园的视野很好的位置，也提供了观景平台。
+
+![岚山](https://blog.hakubill.tech/img/jp/webp/s1e10/_DSC1008.webp)
+
+不过，再步行深入岚山就不太现实了。下次再来京都的时候，有机会在时节正好之时再来吧。
