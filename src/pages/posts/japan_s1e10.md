@@ -94,3 +94,7 @@ published: false
 ![岚山](https://blog.hakubill.tech/img/jp/webp/s1e10/_DSC1008.webp)
 
 不过，再步行深入岚山就不太现实了。下次再来京都的时候，有机会在时节正好之时再来吧。
+
+### [金阁寺](https://www.shokoku-ji.jp/kinkakuji/)
+
+前往京福電気鉄道嵐山本線的嵐山駅，中间转乘北野線，然后便一直乘坐到终点的北野白梅町駅。之后便继续步行前往金阁寺。
