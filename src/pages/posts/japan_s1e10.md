@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '古都京都（下） [回乡记S1E10]【施工中】'
-pubDate: 2023-11-16
+title: '古都京都（下） [回乡记S1E10]'
+pubDate: 2023-12-18
 description: '从琉璃光院的满堂翠玉到岚山的一笔绿林，从朴实无华的渡月桥到金碧辉煌的金阁寺'
 author: 'Bill Haku'
 cover:
@@ -11,7 +11,7 @@ cover:
 tags: ["日本", "回乡记", "杂谈", "旅游"]
 theme: 'light'
 featured: true
-published: false
+published: true
 ---
 
 ### [琉璃光院](https://rurikoin.komyoji.com)
@@ -69,7 +69,7 @@ published: false
 
 至此，走出大门，琉璃光院的参观就结束了。原路回到电车站，再返回我住的民宿。回去的路上，乘坐京阪电车到了七条站，出站之后便是著名的鸭川。自平安京建都以来，世世代代的京都人便于鸭川清澈的河水一同生活在一起。春季在半木之道赏樱，夏天在河边纳凉。闲时在河边散步，或者在河边的咖啡厅喝一杯咖啡、吃一顿晚饭。鸭川的两岸，是京都人生活的一部分。
 
-![七条大桥前的晚霞与航迹云。出电车站，抬头便是这样的景象。值得一提的是，在日本航迹云似乎很常见。不知是因为日本的航线密度比较高还是因为日本的气候跟利于航迹云的形成。](https://blog.hakubill.tech/img/jp/webp/s1e10/IMG_0300.webp)
+![七条大桥前的晚霞与航迹云。出电车站，抬头便是这样的景象。值得一提的是，在日本航迹云似乎很常见。不知是因为日本的航线密度比较高还是因为日本的气候跟利于航迹云的形成。|inline](https://blog.hakubill.tech/img/jp/webp/s1e10/IMG_0300.webp)
 
 ![鸭川](https://blog.hakubill.tech/img/jp/webp/s1e10/IMG_0302.webp)
 
@@ -79,7 +79,7 @@ published: false
 
 <iframe id="embedPlayer" src="https://embed.music.apple.com/jp/album/%E6%B8%A1%E6%9C%88%E6%A9%8B-%E5%90%9B-%E6%83%B3%E3%81%B5/1298566573?i=1298566995&amp;app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
-我初次认识渡月桥，便是仓木麻衣的这一首「渡月橋 ~君 思ふ~」，出自《名侦探柯南・唐红的恋歌》。无论是渡月桥其名，还是这首歌的旋律与演唱，让人感受到一种富含千年历史的日式的古典气息。不过，「渡月桥上渡月人，人走桥留水映月」。渡月桥的美丽，不在于其本身，也与周围的风景关系不大，而是渡月桥所守望者的这片土地，千百年来无数人的生活、人的情感、人的思念。
+我初次认识渡月桥，便是仓木麻衣的这一首「渡月橋 ～君 思ふ～」，出自《名侦探柯南・唐红的恋歌》。无论是渡月桥其名，还是这首歌的旋律与演唱，让人感受到一种富含千年历史的日式的古典气息。不过，「渡月桥上渡月人，人走桥留水映月」。渡月桥的美丽，不在于其本身，也与周围的风景关系不大，而是渡月桥所守望者的这片土地，千百年来无数人的生活、人的情感、人的思念。
 
 ![渡月桥](https://blog.hakubill.tech/img/jp/webp/s1e10/_DSC0962.webp)
 
