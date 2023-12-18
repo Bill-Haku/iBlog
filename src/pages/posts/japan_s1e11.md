@@ -2,7 +2,7 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: '京都的日常 [回乡记S1E11]'
 pubDate: 2023-12-19
-description: '京都已经走过了繁华的都城时光，终究只是百万京都人的京都。'
+description: '京都已经走过了繁华的都城时光，终究只是京都人的京都。'
 author: 'Bill Haku'
 cover:
     url: 'https://blog.hakubill.tech/img/jp/webp/s1e11/_DSC0773.webp'
@@ -11,7 +11,7 @@ cover:
 tags: ["日本", "回乡记", "杂谈", "旅游"]
 theme: 'light'
 featured: true
-published: false
+published: true
 ---
 
 ### 京都的街道
@@ -24,7 +24,7 @@ published: false
 
 ![京都的街道|inline](https://blog.hakubill.tech/img/jp/webp/s1e11/IMG_0314.webp)
 
-![京都的街道|inline](https://blog.hakubill.tech/img/jp/webp/s1e11/IMG_00249.webp)
+![京都的街道|inline](https://blog.hakubill.tech/img/jp/webp/s1e11/IMG_0249.webp)
 
 ![京都的街道|inline](https://blog.hakubill.tech/img/jp/webp/s1e11/IMG_0369.webp)
 
@@ -34,7 +34,7 @@ published: false
 
 #### 吃饭
 
-![常见的咖喱盖饭配唐扬鸡块和味噌汤](https://blog.hakubill.tech/img/jp/webp/s1e11/IMG_0248.webp)
+![常见的咖喱盖饭配唐扬鸡块和味噌汤|inline](https://blog.hakubill.tech/img/jp/webp/s1e11/IMG_0248.webp)
 
 #### 二次元
 
@@ -52,13 +52,13 @@ published: false
 
 ![在一家超市门口展示的当天的特惠商品价格|inline](https://blog.hakubill.tech/img/jp/webp/s1e11/IMG_0330.webp)
 
-#### 中国
+#### 京都与中国
 
 ![周恩来总理诗碑。在岚山公园的某处，设有一块周恩来总理诗碑。这是继大阪市大阪城公园的石狮子、和歌山县新宫市的徐福公园之后，又一次在日本看到中国的相关的东西。似乎是周恩来写过几首关于岚山的诗，于是就在此刻了下来。|inline](https://blog.hakubill.tech/img/jp/webp/s1e11/IMG_0319.webp)
 
 #### 祭典
 
-![八幡宮的秋日祭的公告。|inline](https://blog.hakubill.tech/img/jp/webp/s1e11/IMG_0320.webp)
+![八幡宮的秋日祭的公告。|inline](https://blog.hakubill.tech/img/jp/webp/s1e11/IMG_0333.webp)
 
 ### 京都动画
 
@@ -73,3 +73,5 @@ published: false
 ![京都动画总部的大门](https://blog.hakubill.tech/img/jp/webp/s1e11/IMG_0346.webp)
 
 虽然我去拜访的时间是很普通的一天，不过旁边还有一位可能是欧美的京阿尼的粉丝，也在拿着相机对着这栋楼拍照。他也在此驻足了一段时间。一栋小小的楼，里面的作品却闪耀着无比巨大的光芒，给全世界的观众带来欢笑、感动和感激。
+
+---
