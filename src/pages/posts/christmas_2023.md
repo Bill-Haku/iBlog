@@ -8,7 +8,7 @@ cover:
     url: '/img/christmas-2023/cover.jpg'
     square: '/img/christmas-2023/cover.jpg'
     alt: 'cover'
-tags: ["动漫", "杂谈", "龙与虎"]
+tags: ["动漫", "杂谈", "人类观察计划", "圣诞节", "龙与虎"]
 theme: 'dark'
 featured: true
 published: true
@@ -52,16 +52,18 @@ published: true
 
 ![LV布置的一小片展区。给没有下雪的成都弥补了一点遗憾。|inline](https://blog.hakubill.tech/img/christmas-2023/_DSC1864.jpg)
 
----
+之前从来没有在圣诞节这一天有过什么特别的活动。不过今年早就想在圣诞节的太古里转一转了，也算是实现了一个小小的愿望。
 
-每个人都喜爱着圣诞树顶上那颗光彩夺目的星星。不过，碎掉的星星却比完好的更加光彩夺目。
+---
 
 ![碎掉的星星|inline](https://blog.hakubill.tech/img/christmas-2023/star.webp)
 
+每个人都喜爱着圣诞树顶上那颗光彩夺目的星星。不过，碎掉的星星却比完好的更加光彩夺目。
+
 ---
 
-![メリークリスマス！|inline](https://blog.hakubill.tech/img/christmas-2023/toradora_christmas.jpg)
+![メリークリスマス！](https://blog.hakubill.tech/img/christmas-2023/toradora_christmas.jpg)
 
 祝你圣诞节快乐。
 
-> 「Merry Christmas Eve!」
+> 「Merry Christmas!」
