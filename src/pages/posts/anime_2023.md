@@ -16,7 +16,7 @@ published: true
 
 ## 2023年度最佳动漫
 
-**葬送のフレーレン**</br>葬送的芙莉莲
+**葬送のフリーレン**</br>葬送的芙莉莲
 
 ![葬送的芙莉莲|inline](https://www.themoviedb.org/t/p/w1280/dDRiOkCBCkd7w6ysMFr39G16opQ.jpg)
 
