@@ -11,7 +11,7 @@ cover:
 tags: ["日本", "回乡记", "杂谈", "旅游"]
 theme: 'light'
 featured: true
-published: false
+published: true
 ---
 
 今天早上从京都站出发，前往琵琶湖周围的几个地方游览，然后晚上在岐阜县岐阜市住宿。
