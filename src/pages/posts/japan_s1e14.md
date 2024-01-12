@@ -52,7 +52,7 @@ published: false
 
 ![上野公园的一角](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1323.webp)
 
-### 东京国立博物馆
+### [东京国立博物馆](https://www.tnm.jp)
 
 在上野公园旁边，就是东京国立博物馆。在这里可以见到许多日本、东亚、甚至全世界的奇珍异宝。我购买了综合文化展的门票准备进入参观。值得一提的是大学生记得带学生证，可以享受优惠价。
 
@@ -70,4 +70,42 @@ published: false
 
 ![狂草书法|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1334.webp)
 
-### 根津神社
+### [根津神社](https://nedujinja.or.jp)
+
+我本来是完全不知道这个神社的。不过前几日在酒店耍b站，正好就刷到一个视频，是在东京大学附近的Vlog，而其中就提到了这个神社。这个神社离日本最好的大学东京大学很近，同时供奉的神明也有学业成就之意，因此很多想要报考东大的考生都会来参拜这个神社。
+
+从东京国立博物馆出来，绕过上野动物园，步行一段时间后就到达了根津神社。虽然我已经收到了CUHK的offer，不用考虑学业的问题，不过作为考了几十年考试的中国学生，还是来看一看。顺便帮人求个签。
+
+![根津神社](https://blog.hakubill.tech/img/jp/webp/s1e14/IMG_0566.webp)
+
+### [东京大学](https://www.u-tokyo.ac.jp/ja/index.html)
+
+东京大学是日本最好的大学。在2024年的QS排名中，[东京大学排名全球第28名](https://www.topuniversities.com/universities/university-tokyo)，亚洲第6名。
+
+东京大学离根津神社很近，走路大约不到5分钟就到了。从一个侧门进入，在校园内简单转了转。东大比较有名的有其主楼的以及其前广场地下的中央食堂，还有东大的一个校门——红门。不过去的时间并不是饭点，食堂不开。而红门则因为发现有倒塌的风险，因此也关闭了。
+
+![东京大学的主楼](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1338.webp)
+
+![东京大学内](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1343.webp)
+
+![东京大学红门（赤門）](https://blog.hakubill.tech/img/jp/webp/s1e14/IMG_0591.webp)
+
+### 新宿
+
+离开东京大学后，来到新宿。在这里吃了晚饭。吃完饭就天黑了，然后就会发现这里的夜景就很符合我对日本的繁华地区的刻板印象了。
+
+![新宿|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1349.webp)
+
+### 下北泽
+
+下北泽因两个东西在中国很有名。其一是诞生了诸如“114514”之类的“淫梦梗”。其二则是这里是近期热门动漫《孤独摇滚》的舞台。
+
+下北泽附近的年轻人很多，而且摇滚等年轻的气息也很浓厚。在这里简单逛了逛，然后打卡了孤独摇滚中的那家livehouse。虽然东京都很大，也是一个包罗万象的城市，但是如果让我选一个最能代表我印象中的东京的地方，我会选择这家livehouse。因此这里也被我选作了本文的封面。
+
+![SHELTER|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1354-1.webp)
+
+虽然来到了下北泽，《孤独摇滚》的许多取景地也就在这周边，但是据说很多都很隐蔽，我也没有该计划也没有提前准备，因此我也没有专门去找圣地巡礼的地方。在下北泽四处转转之后，便打道回府了。
+
+![下北泽|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1351.webp)
+
+### 雷门・浅草寺
