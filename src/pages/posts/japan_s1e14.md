@@ -109,3 +109,19 @@ published: false
 ![下北泽|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1351.webp)
 
 ### 雷门・浅草寺
+
+说到日本的代表，第一是富士山，第二则是雷门。雷门是东京浅草寺的大门，其标志则是一个大到夸张的写着「雷門」的红色大灯笼。
+
+![雷门](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1376.webp)
+
+穿过雷门，是一片集市一样的地方。有很多商贩，也有很多人。总之非常热闹。然后就到了浅草寺。这里供奉的是南无大慈悲观世音菩萨。有许多人在这里祭拜祈福。
+
+此外，著名的东京天空树（又名晴空塔）也可以在这里看到。不过这次没有时间去登塔了。下次有机会再去。
+
+![浅草寺与天空树](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1399.webp)
+
+### 秋叶原
+
+次日上午，来到了二次元的圣地——秋叶原。总之这里到处都是二次元。有许多熟悉的，也有更多不熟悉的。
+
+![秋叶原](https://blog.hakubill.tech/img/jp/webp/s1e14/IMG_947C.webp)
