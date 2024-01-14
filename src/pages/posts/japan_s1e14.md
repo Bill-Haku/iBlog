@@ -1,8 +1,8 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '东亚之都——东京[回乡记S1E14]'
+title: '我的家乡东京[回乡记S1E14]'
 pubDate: 2024-01-14
-description: '我的故乡东京'
+description: '东京之上野、东京大学、新宿、下北泽、浅草、秋叶原、涩谷、池袋'
 author: 'Bill Haku'
 cover:
     url: 'https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1354.webp'
@@ -118,7 +118,7 @@ published: true
 
 此外，著名的东京天空树（又名晴空塔）也可以在这里看到。不过这次没有时间去登塔了。下次有机会再去。
 
-![浅草寺与天空树](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1399.webp)
+![浅草寺与天空树|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1399.webp)
 
 ### 秋叶原
 
@@ -163,3 +163,7 @@ published: true
 ![池袋站|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1469.webp)
 
 值得一提的是，贩卖二次元周边的连锁店Animate的总店并不在秋叶原，而是在池袋。这里的店铺明显要大不少，可以找到不少东西。
+
+---
+
+至此我本次在东京的旅行也就结束了。下一集将是《回乡记》第一季的最后一集。我将乘坐ANA的NH959航班从成田机场回到上海浦东国际机场。然后次日再乘坐中国国际航空公司的B777和A330从上海虹桥国际机场出发经由北京首都国际机场回到成都双流国际机场。敬请期待。
