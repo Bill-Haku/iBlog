@@ -25,7 +25,7 @@ tags.forEach((tag) => {
           // tile-2up
           allPosts.slice(0, 999).map((post) => {
             return (
-              <MoreTile title={post.frontmatter.title} href={post.url} date={post.frontmatter.pubDate} tags={post.frontmatter.tags} cover={post.frontmatter.cover.url} />
+              <MoreTile title={post.frontmatter.title} href={post.url} date={post.frontmatter.pubDate} tags={post.frontmatter.tags} cover={post.frontmatter.cover.square} />
             );
           })
         }
