@@ -46,13 +46,13 @@ allPosts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontma
   <section class="more-from-newsroom">
     <div class="section-content">
       <h2 class="section-head">更多文章</h2>
-   
+
 
       <ul role="list" class="section-tiles">
 
         {
           // tile-2up
-          allPosts.slice(0, 6).map((post) => {
+          allPosts.slice(0, 16).map((post) => {
             return (
               <MoreTile title={post.frontmatter.title} href={post.url} date={post.frontmatter.pubDate} tags={post.frontmatter.tags} cover={post.frontmatter.cover.url} />
             );
