@@ -1,7 +1,9 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArchivePostList from "../layouts/ArchivePostList.astro";
+import MoreTile from "../layouts/MoreTile.astro";
 const allPosts = await Astro.glob("./posts/*.md");
+allPosts.sort((a, b) => Date.parse(a.frontmatter.pubDate) - Date.parse(b.frontmatter.pubDate));
 const tags = ["动漫", "杂谈", "圣地巡礼", "小说", "旅游", "回乡记"];
 const posts = [];
 
@@ -12,6 +14,24 @@ tags.forEach((tag) => {
 ---
 
 <BaseLayout primaryTitle="归档">
+  <section class="more-from-newsroom">
+    <div class="section-content">
+      <h2 class="section-head">全部文章</h2>
+
+
+      <ul role="list" class="section-tiles">
+
+        {
+          // tile-2up
+          allPosts.slice(0, 999).map((post) => {
+            return (
+              <MoreTile title={post.frontmatter.title} href={post.url} date={post.frontmatter.pubDate} tags={post.frontmatter.tags} cover={post.frontmatter.cover.url} />
+            );
+          })
+        }
+      </ul>
+    </div>
+  </section>
   <section class="archive">
     <div class="section-content section-tag">
       {
@@ -26,4 +46,17 @@ tags.forEach((tag) => {
       }
     </div>
   </section>
+  <script is:inline>
+    document.addEventListener("DOMContentLoaded", function () {
+      var script = document.createElement("script");
+      script.src = "/static/js/animation.js";
+      document.head.appendChild(script);
+
+      script.onload = function () {
+        console.log("lazyload.js loaded");
+        // when layout is loaded, load the images
+        initImage();
+      };
+    });
+  </script>
 </BaseLayout>
