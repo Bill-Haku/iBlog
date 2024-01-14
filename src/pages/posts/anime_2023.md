@@ -6,7 +6,7 @@ description: ''
 author: 'Bill Haku'
 cover:
     url: '/img/anime-2023/cover.png'
-    square: '/img/anime-2023/cover.png'
+    square: '/img/anime-2023/cover_square.png'
     alt: 'cover'
 tags: ["动漫", "杂谈"]
 theme: 'light'
