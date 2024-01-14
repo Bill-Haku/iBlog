@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '我的家乡东京[回乡记S1E14]'
-pubDate: 2024-01-14
+pubDate: 2024-01-13
 description: '东京之上野、东京大学、新宿、下北泽、浅草、秋叶原、涩谷、池袋'
 author: 'Bill Haku'
 cover:
