@@ -22,11 +22,11 @@ published: true
 
 早上前往东京站搭乘山形新干线。虽然东京站也是东京的著名景点之一，但是本次我直接在四ツ谷駅乘坐JR中央线快速到达东京站，因此也没有时间再出站来看外面的站房了。归属于JR东海的东海道新干线和归属于JR东日本的东北新干线虽然都交汇在东京站并且预留了直通条件，但是并没有实现直通。往南和往北也是两个方向分别进站。
 
-![在四ツ谷駅打印的新干线指定券](https://blog.hakubill.tech/img/jp/webp/s1e14/IMG_0533.webp)
+![在四ツ谷駅打印的新干线指定券|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/IMG_0533.webp)
 
 乘坐つばさ129号1小时34分钟后即到达了福岛县福岛市福岛站。没错，不是前几日大阪府大阪市的福岛站，而是正儿八经的福岛县福岛市福岛站。我赶紧下车呼吸了几口充满了“核污染”的空气。
 
-![福岛站](https://blog.hakubill.tech/img/jp/webp/s1e14/IMG_0542.webp)
+![福岛站|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/IMG_0542.webp)
 
 随后出站。福岛站的站房并不大。新干线的站台位于西侧，虽然西侧也可以出去，但是福岛市区主要还是位于福岛站的东侧。从天桥穿过站台，然后从在来线的站台出站。站外面有一些小商铺，还有一个停车场。
 
@@ -36,11 +36,11 @@ published: true
 
 福岛站外面过街就能看到似乎是一个临时的跳蚤市场。有许多摊贩，也有许多人在这里选购或者凑热闹。总之，福岛市民的生活与其它地方并没有什么两样。
 
-![福岛站外的跳蚤市场](https://blog.hakubill.tech/img/jp/webp/s1e14/IMG0547.webp)
+![福岛站外的跳蚤市场|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/IMG_0547.webp)
 
 在外面转了一圈就准备返回福岛站回到东京了。发现福岛站内还有一个很像任天堂的星之卡比中的卡比的吉祥物。日本的吉祥物设计果然有点水平的。
 
-![福岛站内的吉祥物](https://blog.hakubill.tech/img/jp/webp/s1e14/IMG_0557.webp)
+![福岛站内的吉祥物|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/IMG_0557.webp)
 
 11点15分，乘坐东北新干线やまびこ136号于12点42分抵达上野站。
 
@@ -64,7 +64,7 @@ published: true
 
 ![骨片上的甲骨文|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1331.webp)
 
-![青铜树。很像四川三星堆的青铜树|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1333.webp)
+![青铜树。很像四川三星堆的青铜树。|inline](https://blog.hakubill.tech/img/jp/webp/s1e14/_DSC1333.webp)
 
 然后参观本馆。本馆则是日本本土的东西了。不过日本的历史相比中国的历史实在是乏善可陈。不如看看这个完全一个字都认不懂的狂草书法作品。
 
