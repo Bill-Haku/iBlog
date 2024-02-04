@@ -46,13 +46,75 @@ published: false
 
 终于走到了小樽运河边上。这里也是《樱花庄的宠物女孩8》中，椎名ましろ与神田空太一同逛街和画写生的地方。
 
-![小樽运河](https://blog.hakubill.tech/img/jp/webp/s2e3/IMG_2128.webp)
+![小樽运河](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2128.webp)
 
 虽然书中提到了坐在河边的长椅上，不过我并没有看到。不知道是本来就不存在，还是被路旁厚厚的积雪掩埋了。
 
 沿着河岸走了一段，来到了似乎是小樽的一个类似于旅游导览中心的地方。这里还有一个时钟和温度计，显示当前的时间和温度：2.5度。是的，此时的气温还是零上。虽然积雪很厚，不过天气并没有十分寒冷，还算可以接受的程度。
 
-![温度计](https://blog.hakubill.tech/img/jp/webp/s2e3/IMG_2140.webp)
+![温度计](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2140.webp)
+
+再来张另外的角度的照片吧。
+
+![小樽运河](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2143.webp)
+
+此外，就在这个桥头的另一边还有一个西洋美术馆。如果是ましろ的话，应该会拉着空太进去看吧。说不定里面还有她自己的作品。
+
+![西洋美术馆](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2149.webp)
+
+#### 返回小樽站
+
+因为时间有限，看了一圈小樽运河之后，便要匆匆忙忙返回札幌去了。返回没有走来时的中央大道，走了一条人更少的路。自然，这条路上的积雪清理也非常不及时，而且由于气温并没有足够的低，白天气温回来到零上，而到了夜晚则又回降到零下。本身如果只是积雪则问题不是太大，但是当气温来到零上后部分积雪化掉变成水，而后气温再次降到零下时，则会结冰。相比积雪，结冰的地方就非常难受了，冰上就会非常滑。特别是在有坡度的地方，就几乎没法站稳，必须非常小心的通过。不过，小樽市政府在街头设立了很多小盒子，里面放着准备好的防滑沙，市民可以按照需要取用。尽管有的地方已经被铺上了防滑沙、可以起到一定的作用，但是有的地方也许是防滑沙的浓度不够，即使有防滑沙也不起作用。
+
+来几张路上拍到的照片。
+
+![雪中巴士](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2160.webp)
+
+![雪之街道](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2166.webp)
+
+![商店街](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2174.webp)
+
+最后回到小樽站，沿JR函館本線来到札幌。
+
+### 札幌
+
+晚上到了札幌已经比较晚了，于是坐了两站地铁到我住的民宿。次日虽然上午11点要赶到新千岁机场飞往函馆，但是我还是决定次日早上从酒店步行前往札幌站，同时刚好可以串联上几个我想要在札幌打卡的地方。
+
+#### 中岛公园
+
+因为就住在中岛公园旁边，于是就先在中岛公园里转了一圈。整个公园被白雪覆盖，早上人不多，虽然有一些匆忙的上班族穿过公园走过，但是公园还是很空旷。
+
+![中岛公园的雪地](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2203.webp)
+
+![中岛公园的一个儿童剧场。这个奇怪的东西有点掉San](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2209.webp)
+
+#### 札幌市区
+
+然后就往大通公园、札幌铁塔的方向走去。路上看看札幌的市区吧。
+
+![一座挺高的住宅塔楼。虽然这样的高密度住宅在中国很常见，但是在东京以外的日本还是不常见的。](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2212.webp)
+
+![一条半冻不冻的小河](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2214.webp)
+
+![札幌市区：南7西3.虽然在中国的有些城市，会采用经多少纬多少的方式来命名道路和确定地方，在京都也在南北方向上采用了数字加「条」这样的方式来划分街区，不过在札幌就直接用东南西北加数字了。值得一提的是，这样的定位的札幌的中心，就在即将去的大通公园札幌电视塔的背后的创成川上。此外，后方大楼顶上的牛郎的广告也挺显眼的。](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2215.webp)
+
+路上还经过了一个小稻荷神社。正如在[第一季第九集](/posts/japan_s1e9)中所说的，稻荷神社在日本各地都有。
+
+![丰川稻荷札幌别院](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2216.webp)
+
+没想到在札幌也能看到这么高的山。北海道的山确实不少。
+
+![札幌的街道与山](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2217.webp)
+
+还见到了无料案内所。如果有人不知道无料案内所是干什么用的，可以[在Google搜索](https://www.google.com/search?q=%E7%84%A1%E6%96%99%E6%A1%88%E5%86%85%E6%89%80)。
+
+![传说中的无料案内所。不过时间太早没开门。](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2224.webp)
+
+![路上的乌鸦。日本的乌鸦还是那么不怕人，可以离得很近去拍。日本的麻雀也不怕人。天下的乌鸦一般黑喏。（突然想到《余老师语录》）](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2226.webp)
+
+![振翅而飞的乌鸦](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2228.webp)
+
+![札幌市电](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2233.webp)
 
 ---
 
