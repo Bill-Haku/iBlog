@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '速通札幌小樽行动 [回乡记S2E3]'
+title: '札幌小樽速通行动 [回乡记S2E3]'
 pubDate: 2024-02-05
 description: '北海道，启动！'
 author: 'Bill Haku'
@@ -68,7 +68,7 @@ published: true
 
 来几张路上拍到的照片。
 
-![雪中巴士](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2160.webp)
+![雪中巴士|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2160.webp)
 
 ![雪之街道|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2166.webp)
 
@@ -92,11 +92,11 @@ published: true
 
 然后就往大通公园、札幌电视塔的方向走去。路上看看札幌的市区吧。
 
-![一座挺高的住宅塔楼。虽然这样的高密度住宅在中国很常见，但是在东京以外的日本还是不常见的。](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2212.webp)
+![一座挺高的住宅塔楼。虽然这样的高密度住宅在中国很常见，但是在东京以外的日本还是不常见的。|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2212.webp)
 
 ![一条半冻不冻的小河](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2214.webp)
 
-![札幌市区：南7西3.虽然在中国的有些城市，会采用经多少纬多少的方式来命名道路和确定地方，在京都也在南北方向上采用了数字加「条」这样的方式来划分街区，不过在札幌就直接用东南西北加数字了。值得一提的是，这样的定位的札幌的中心，就在即将去的大通公园札幌电视塔的背后的创成川上。此外，后方大楼顶上的牛郎的广告也挺显眼的。](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2215.webp)
+![札幌市区：南7西3.虽然在中国的有些城市，会采用经多少纬多少的方式来命名道路和确定地方，在京都也在南北方向上采用了数字加「条」这样的方式来划分街区，不过在札幌就直接用东南西北加数字了。值得一提的是，这样的定位的札幌的中心，就在即将去的大通公园札幌电视塔的背后的创成川上。此外，后方大楼顶上的牛郎的广告也挺显眼的。|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2215.webp)
 
 路上还经过了一个小稻荷神社。正如在[第一季第九集](/posts/japan_s1e9)中所说的，稻荷神社在日本各地都有。
 
@@ -108,13 +108,13 @@ published: true
 
 还见到了无料案内所。如果有人不知道无料案内所是干什么用的，可以[在Google搜索](https://www.google.com/search?q=%E7%84%A1%E6%96%99%E6%A1%88%E5%86%85%E6%89%80)。
 
-![传说中的无料案内所。不过时间太早没开门。](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2224.webp)
+![传说中的无料案内所。不过时间太早没开门。|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2224.webp)
 
 ![路上的乌鸦。日本的乌鸦还是那么不怕人，可以离得很近去拍。日本的麻雀也不怕人。天下的乌鸦一般黑喏。（突然想到《余老师语录》）](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2226.webp)
 
 ![振翅而飞的乌鸦](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2228.webp)
 
-![札幌市电](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2233.webp)
+![札幌市电|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2233.webp)
 
 #### 大通公园 & 札幌电视塔
 
@@ -122,13 +122,13 @@ published: true
 
 在大通公园的栏杆上，每一个柱子顶端都被放了一个雪鸭子或者雪小熊，不知道是谁做的，非常可爱。
 
-![小鸭子](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2241.webp)
+![小鸭子|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2241.webp)
 
-![小熊](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2242.webp)
+![小熊|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2242.webp)
 
 然后来一张大通公园与札幌电视塔的合影吧。
 
-![早上8点08分的大通公园与札幌电视塔](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2244.webp)
+![早上8点08分的大通公园与札幌电视塔|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2244.webp)
 
 不过最近大通公园正在封闭施工，似乎是为了准备什么冰雪祭之类的活动，因此也无法进入。当然里面看起来也就是一片雪地，似乎没啥意思。
 
