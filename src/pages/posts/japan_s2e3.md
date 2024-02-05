@@ -5,8 +5,8 @@ pubDate: 2024-02-05
 description: '北海道，启动！'
 author: 'Bill Haku'
 cover:
-    url: 'https://blog.hakubill.tech/img/jp/webp/s2e3/IMG_2132.webp'
-    square: 'https://blog.hakubill.tech/img/jp/webp/s2e3/IMG_2132.webp'
+    url: 'https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2132.webp'
+    square: 'https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2132.webp'
     alt: 'cover'
 tags: ["日本", "圣地巡礼", "动漫", "日本", "回乡记", "樱花庄的宠物女孩", "杂谈", "旅游"]
 theme: 'light'
@@ -34,7 +34,7 @@ published: true
 
 ![小樽的路旁](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2116.webp)
 
-![小樽的路旁。厚度达到标志牌下缘的积雪](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2118.webp)
+![小樽的路旁。厚度达到标志牌下缘的积雪。](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2118.webp)
 
 ![无人清扫的积雪|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2119.webp)
 
@@ -52,7 +52,7 @@ published: true
 
 沿着河岸走了一段，来到了似乎是小樽的一个类似于旅游导览中心的地方。这里还有一个时钟和温度计，显示当前的时间和温度：2.5度。是的，此时的气温还是零上。虽然积雪很厚，不过天气并没有十分寒冷，还算可以接受的程度。
 
-![温度计](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2140.webp)
+![温度计|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2140.webp)
 
 再来张另外的角度的照片吧。
 
@@ -70,9 +70,9 @@ published: true
 
 ![雪中巴士](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2160.webp)
 
-![雪之街道](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2166.webp)
+![雪之街道|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2166.webp)
 
-![商店街](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2174.webp)
+![商店街|inline](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2174.webp)
 
 最后回到小樽站，沿JR函館本線来到札幌。
 
