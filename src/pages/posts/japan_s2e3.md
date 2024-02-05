@@ -1,17 +1,17 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '速通札幌小樽行动 [回乡记S2E3]'
-pubDate: 2024-01-31
+pubDate: 2024-02-05
 description: '北海道，启动！'
 author: 'Bill Haku'
 cover:
     url: 'https://blog.hakubill.tech/img/jp/webp/s2e3/IMG_2132.webp'
-    square: 'https://blog.hakubill.tech/img/jp/webp/s2e1¥3/IMG_2132.webp'
+    square: 'https://blog.hakubill.tech/img/jp/webp/s2e3/IMG_2132.webp'
     alt: 'cover'
 tags: ["日本", "圣地巡礼", "动漫", "日本", "回乡记", "樱花庄的宠物女孩", "杂谈", "旅游"]
 theme: 'light'
 featured: true
-published: false
+published: true
 ---
 
 ### 小樽
@@ -90,7 +90,7 @@ published: false
 
 #### 札幌市区
 
-然后就往大通公园、札幌铁塔的方向走去。路上看看札幌的市区吧。
+然后就往大通公园、札幌电视塔的方向走去。路上看看札幌的市区吧。
 
 ![一座挺高的住宅塔楼。虽然这样的高密度住宅在中国很常见，但是在东京以外的日本还是不常见的。](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2212.webp)
 
@@ -115,6 +115,40 @@ published: false
 ![振翅而飞的乌鸦](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2228.webp)
 
 ![札幌市电](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2233.webp)
+
+#### 大通公园 & 札幌电视塔
+
+终于就走到了大通公园了。大通公园是一条东西向的长长的一片地方，正如其名「大通」，也就是主要的通路、贯通的意思。而在大通公园的东端，就是札幌电视塔，外形与东京铁塔或者埃菲尔铁塔很像，也确实都是电视塔。这里即是札幌的标志性建筑之一，也正如前文所说，是札幌的中心。
+
+在大通公园的栏杆上，每一个柱子顶端都被放了一个雪鸭子或者雪小熊，不知道是谁做的，非常可爱。
+
+![小鸭子](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2241.webp)
+
+![小熊](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2242.webp)
+
+然后来一张大通公园与札幌电视塔的合影吧。
+
+![早上8点08分的大通公园与札幌电视塔](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2244.webp)
+
+不过最近大通公园正在封闭施工，似乎是为了准备什么冰雪祭之类的活动，因此也无法进入。当然里面看起来也就是一片雪地，似乎没啥意思。
+
+在《樱花庄的宠物女孩8》中，青山七海与神田空太约会的过程中也来到了这里。不过这次我没时间在这里过多停留，更没时间上札幌铁塔去了。下次有机会再去。
+
+#### 札幌市时计台
+
+从大通公园那边过来走不了多远，就到札幌市时计台了。这里也是札幌市的标志性景点之一。这里曾经是札幌农学院的时计台，名为「演武场」（虽然不是很能理解为什么要取这个名字），不过后来只剩下这座建筑保留下来。
+
+![札幌市时计台](https://blog.hakubill.tech/img/jp/webp/s2e3/_DSC2252.webp)
+
+在《樱花庄的宠物女孩8》中，青山七海与神田空太约会的过程中也来到了这里。他们也进去参观了。这里确实可以进去参观，但是我去的时间过早，还没有开放。下次有机会再进去参观。
+
+#### 札幌站
+
+最终来到了札幌站。事实上，在《樱花庄的宠物女孩8》中，青山七海与神田空太约会便是从这里开始的。札幌站应该是事实上的札幌的中心了，也是札幌最繁华的地区了。
+
+![札幌站](https://blog.hakubill.tech/img/jp/webp/s2e3/IMG_2180.webp)
+
+路上顺便拍个照，然后就进站准备前往新千岁机场了。下一集我们将搭乘ANA的NH4853号航班，乘坐DHC-8 Dash 8飞机飞往函馆。
 
 ---
 
