@@ -2,14 +2,42 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: 'ANA札幌函馆Dash 8飞机体验 [回乡记S2E4]'
 pubDate: 2024-02-06
-description: '第一次乘坐螺旋桨飞机'
+description: '第一次乘坐螺旋桨飞机，也是目前飞过的最短的航线'
 author: 'Bill Haku'
 cover:
-    url: 'https://blog.hakubill.tech/img/jp/webp/s2e1/IMG_2032.webp'
-    square: 'https://blog.hakubill.tech/img/jp/webp/s2e1/IMG_2032.webp'
+    url: 'https://blog.hakubill.tech/img/jp/webp/s2e4/_DSC2256.webp'
+    square: 'https://blog.hakubill.tech/img/jp/webp/s2e4/_DSC2256.webp'
     alt: 'cover'
 tags: ["日本", "回乡记", "杂谈", "旅游", "飞行"]
 theme: 'light'
 featured: true
 published: false
 ---
+
+## 前言
+
+由于计划按照《樱花庄的宠物女孩8》北海道篇的路线来游玩北海道，因此在去过札幌和小樽之后，计划前往函馆。北海道的交通并不方便，从札幌去函馆的话，新干线还没修通，要么乘坐在来线的特急北斗号列车，花费大约三四个小时的时间，要么乘坐飞机，花费40分钟的时间。ANA一天有两班，价格虽然不算便宜，但是跟特急列车的价格差不多。于是我便打算乘坐ANA的飞机去，再乘坐特急北斗号回到新千岁机场继续后面的行程。
+
+## 候机
+
+前往新千岁机场国内线出发区。还是与乘坐日航的国内线一样，使用ANA的电子登机牌上的二维码登机，然后在安检口扫描二维码可以得到一张保安检查证，类似于JAL的搭乘案内。国内线的安检还是一如既往的简单，然后就可以前往登机口休息了。
+
+![ANA国内线保安检查证|inline](https://blog.hakubill.tech/img/jp/webp/s2e4/IMG_2186.webp)
+
+新千岁机场的国内线航站楼在东侧，而西侧则是国际线航站楼。国内线航站楼是一个半圆形的设计，北侧是ANA的区域，而南侧则是JAL的区域。这个半圆的设计非常少见。
+
+![新千岁机场航图。以中间的半圆形建筑、不规则的矩形建筑及其连廊为中心，西侧为原千岁机场（RJCJ），现在供日本航空自卫队千岁基地使用。而东侧则是1988年启用的新千岁机场。两个机场独立运行，但是有滑行道相连。航站楼右侧的半圆形建筑为国内线航站楼，左侧部分则是国际线航站楼。JR新千岁机场站就位于两个航站楼中间靠国内线的区域。|inline](https://blog.hakubill.tech/img/jp/webp/s2e4/RJCC.webp)
+
+我这次的登机口在0号登机口。事实上我也是第一次遇到0号登机口，也许新千岁机场的工程师是学计算机出身的，要从0开始数。0号登机口位于航站楼的北端，因此我走完了整个四分之一圆才走到登机口。不过这个航站楼并不大，很快就可以走到。
+
+来到登机口前，上一班占用该登机口的航班还没起飞。这是前往稚内的航班。值得一提的是，稚内是日本最北端的城市，稚内机场也是日本最北端的有定期航班运营的机场。此外，稚内应该读作わっかない，但是我却很经常将其发音为わかんない，也就是“我不知道”的意思。
+
+在新千岁机场随便逛逛，还看到了ANA的鬼灭之刃联动彩绘机。
+
+![ANA鬼灭之刃联动彩绘机|inline](https://blog.hakubill.tech/img/jp/webp/s2e4/IMG_2191.webp)
+
+---
+
+本集行程：
+
+> - NH4853 CTS-HKD 1057-1140 DHC-8 JA859A 43min 133km

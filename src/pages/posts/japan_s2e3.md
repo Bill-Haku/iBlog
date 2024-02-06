@@ -148,7 +148,7 @@ published: true
 
 ![札幌站](https://blog.hakubill.tech/img/jp/webp/s2e3/IMG_2180.webp)
 
-路上顺便拍个照，然后就进站准备前往新千岁机场了。下一集我们将搭乘ANA的NH4853号航班，乘坐DHC-8 Dash 8飞机飞往函馆。
+路上顺便拍个照，然后就进站准备前往新千岁机场了。下一集我们将搭乘ANA的NH4853号航班，乘坐DHC-8 (Dash 8)飞机飞往函馆。
 
 ---
 
