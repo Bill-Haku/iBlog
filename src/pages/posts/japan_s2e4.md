@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'ANA札幌函馆Dash 8飞机体验 [回乡记S2E4]'
-pubDate: 2024-02-06
+pubDate: 2024-02-23
 description: '第一次乘坐螺旋桨飞机，也是目前飞过的最短的航线'
 author: 'Bill Haku'
 cover:
@@ -11,7 +11,7 @@ cover:
 tags: ["日本", "回乡记", "杂谈", "旅游", "飞行"]
 theme: 'light'
 featured: true
-published: false
+published: true
 ---
 
 ## 前言
@@ -76,7 +76,15 @@ published: false
 
 ## 函馆机场
 
-函馆机场确实很小，很快就走出来了。
+函馆机场确实很小，很快就走出来了。在到达大厅注意到了一个古老的翻转式的屏幕，显示进港航班。在这里等了一会本来想等看他什么时候翻转来录下来，不过等了一会估计是航班量太少了完全没动静，于是就放弃了。
+
+![函馆机场的翻转式屏幕|inline](https://blog.hakubill.tech/img/jp/webp/s2e4/IMG_2215.webp)
+
+此外在函馆机场也充满了二次元元素。比如函馆娘。
+
+![函馆娘的旅游海报|inline](https://blog.hakubill.tech/img/jp/webp/s2e4/IMG_2216.webp)
+
+出机场，门口乘坐巴士前往函馆市区。直接坐到函馆站门口，然后即可前往酒店了。下一集我们将游览函馆市区和函馆山。
 
 ---
 
