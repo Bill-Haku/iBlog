@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '北海道门户函馆——空太与真白恋情开始的地方[回乡记S2E5]'
-pubDate: 2024-02-24
+pubDate: 2024-02-25
 description: '函馆市区与米其林三星目的地函馆山'
 author: 'Bill Haku'
 cover:
@@ -11,7 +11,7 @@ cover:
 tags: ["日本", "圣地巡礼", "动漫", "日本", "回乡记", "樱花庄的宠物女孩", "杂谈", "旅游"]
 theme: 'light'
 featured: true
-published: false
+published: true
 ---
 
 如果说札幌圈正如北海道的首都圈充满了金融贸易繁华的感觉，旭川等地又过于和冰雪、自然挂钩的话，那么北海道的门户函馆则是一个冷淡的北方小城的感觉。
