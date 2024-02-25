@@ -8,7 +8,7 @@ cover:
     url: 'https://blog.hakubill.tech/img/jp/webp/s1e6/_DSC0330.webp'
     square: 'https://blog.hakubill.tech/img/jp/webp/s1e6/_DSC0330.webp'
     alt: 'cover'
-tags: ["日本", "回乡记", "杂谈", "旅游"]
+tags: ["日本", "回乡记", "旅游"]
 theme: 'light'
 featured: true
 published: true
