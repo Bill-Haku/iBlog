@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '意料之外的关西机场驻留 [回乡记S2E2]'
+title: '意料之外的关西机场驻留 艰难飞往札幌 [回乡记S2E2]'
 pubDate: 2024-01-30
 description: '北海道的大雪打乱了原本的计划，给我的日语和心理水平都是一次挑战。'
 author: 'Bill Haku'
@@ -8,7 +8,7 @@ cover:
     url: 'https://blog.hakubill.tech/img/jp/webp/s2e2/IMG_2127.webp'
     square: 'https://blog.hakubill.tech/img/jp/webp/s2e2/IMG_2127.webp'
     alt: 'cover'
-tags: ["日本", "回乡记", "杂谈", "旅游", "飞行"]
+tags: ["日本", "回乡记", "杂谈", "旅游", "飞行", "日本航空JAL", "乐桃航空"]
 theme: 'light'
 featured: true
 published: true

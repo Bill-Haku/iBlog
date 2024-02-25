@@ -8,7 +8,7 @@ cover:
     url: 'https://blog.hakubill.tech/img/jp/webp/s1e3/_DSC0223.webp'
     square: 'https://blog.hakubill.tech/img/jp/webp/s1e3/_DSC0223.webp'
     alt: 'cover'
-tags: ["日本", "回乡记", "杂谈", "旅游", "飞行"]
+tags: ["日本", "回乡记", "杂谈", "旅游", "飞行", "日本航空JAL"]
 theme: 'light'
 featured: true
 published: true
