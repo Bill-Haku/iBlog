@@ -4,7 +4,7 @@ import ArchivePostList from "../layouts/ArchivePostList.astro";
 import MoreTile from "../layouts/MoreTile.astro";
 const allPosts = await Astro.glob("./posts/*.md");
 allPosts.sort((a, b) => Date.parse(a.frontmatter.pubDate) - Date.parse(b.frontmatter.pubDate));
-const tags = ["动漫", "圣地巡礼", "小说", "回乡记", "全日空ANA", "日本航空JAL"];
+const tags = ["动漫", "圣地巡礼", "小说", "回乡记", "飞行", "全日空ANA", "日本航空JAL"];
 const posts = [];
 
 tags.forEach((tag) => {
