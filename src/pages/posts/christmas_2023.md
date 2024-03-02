@@ -12,6 +12,8 @@ tags: ["动漫", "杂谈", "人类观察计划", "圣诞节", "龙与虎"]
 theme: 'dark'
 featured: true
 published: true
+pinned: true
+pinRank: 1
 ---
 
 在2020年，同样也是圣诞节的时候，我在之外语文发表了[《圣诞节与考研》](https://mp.weixin.qq.com/s/HWEs0Jiu1Mnt-CXUfl4cHw)一文。在中国，圣诞节这一西方的节日的日子里，却总是发生着许多中国特色的事情。又是圣诞节到了。虽然考研刚刚结束，我却不再对考研也好，未来的出路也好，这个社会的诸多问题也好，抱有太多期待与热情了。

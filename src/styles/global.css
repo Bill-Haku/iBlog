@@ -813,6 +813,16 @@ html.js .tile.large-loaded .image {
   }
 }
 
+.section-footer {
+  margin-bottom: 24px;
+}
+
+@media only screen and (max-width: 1068px) {
+  .section-footer {
+    margin-bottom: 16px;
+  }
+}
+
 .more-from-newsroom {
   padding-top: 10px;
   padding-bottom: 80px;

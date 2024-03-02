@@ -12,6 +12,8 @@ tags: ["圣地巡礼", "动漫", "日本", "回乡记", "来自风平浪静的�
 theme: 'light'
 featured: true
 published: true
+pinned: true
+pinRank: 2
 ---
 
 ![凪のあすから 10TH ANNIVERSARY|inline](https://blog.hakubill.tech/img/icons/nagiasu10th.jpg)
