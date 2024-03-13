@@ -5,13 +5,13 @@ pubDate: 2024-03-01
 description: '搭乘日航A359乘坐日本最繁忙航线札幌新千岁-东京羽田。'
 author: 'Bill Haku'
 cover:
-    url: 'https://blog.hakubill.tech/img/jp/webp/s2e6/IMG_2032.webp'
-    square: 'https://blog.hakubill.tech/img/jp/webp/s2e6/IMG_2032.webp'
+    url: 'https://blog.hakubill.tech/img/jp/webp/s2e6/cover.webp'
+    square: 'https://blog.hakubill.tech/img/jp/webp/s2e6/cover.webp'
     alt: 'cover'
 tags: ["日本", "回乡记", "杂谈", "旅游", "飞行", "日本航空JAL"]
 theme: 'light'
 featured: true
-published: false
+published: true
 ---
 
 ## 前言
@@ -19,3 +19,45 @@ published: false
 札幌新千岁到东京羽田的航线是日本最繁忙的航线、也是全球第二繁忙的航线，仅次于首尔金浦-济州线。每到冬季，北海道都会成为日本国内外游客的热门目的地，然而札幌距离东京距离遥远，还没有新干线通行，所以航空交通成为了最主要的交通方式。日航、全日空和其他航空公司在这条线路上投入了大量的航班，例如日航在我选乘的这段时间附近，每隔一个小时都会有一班整点起飞的A359.
 
 A359是我非常喜欢的机型，日航的A359也是日航国内线的旗舰机型。本次飞行展现了日航高水准的服务水平，以及A359的舒适性。
+
+## 起飞前
+
+还是比较早的到达了新千岁机场，在机场内的餐厅吃了点面，很快时间就打发过去了。上一班航班是ANA的因此主要使用的北半部分的航站楼，而这次则在JAL的男半部分转了一圈。新千岁机场的餐厅并不多，总体商业的面积并不大。
+
+很快，飞机开始登机。在中国通常起飞前40分钟甚至更早就开始登机了，但是在日本起飞前20分钟才开始登机、ANA和JAL的话在起飞前10分钟才关闭舱门。即使这次是载客量巨大的A359，所有乘客也完成了高效率的登机。
+
+日航的A359有两种布局，区别在于Class-J（超级经济舱）的排数的多少。本次乘坐的注册号为JA-12XJ的飞机才用的是X11布局，总共有369个座位，其中头等舱为第1-2排采用2-2-2的布局共12座，Class-J为第5到19排采用2-4-2的布局共94座，经济舱为第27到61排采用3-3-3的布局共263座。日本的航司在登机时会采用分组登机的策略，每一个乘客都有编组，通常Group 1和Group 2为头等舱和Class-J的乘客，而经济舱靠窗的乘客为Group 3优先登机，最后登机的是Group 4其他座位的乘客。这样可以有效避免拥挤，提高登机效率。所有乘客也按照登机牌上的顺序根据广播准备登机。
+
+![JAL X11布局的A359](https://www.jal.co.jp/content/www/wwwjalcojp/jp/ja/aircraft/conf/359/_jcr_content/root/contents/responsivegrid1/responsivegrid_copy_/img_copy.coreimg.1920.png/1632809502004.png)
+
+## 登机
+
+飞机在预定时间开始了登机。各组乘客按照顺序很快完成了登机。
+
+![登机|inline](https://blog.hakubill.tech/img/jp/webp/s2e6/IMG_2337.webp)
+
+![A359墨镜|inline](https://blog.hakubill.tech/img/jp/webp/s2e6/IMG_2338.webp)
+
+## 机上
+
+飞机很新，而A359也是日航的国内线的旗舰机型。经济舱的配色也很大气高端。
+
+![机内经济舱|inline](https://blog.hakubill.tech/img/jp/webp/s2e6/IMG_2340.webp)
+
+经济舱座位也很宽，而且带有可调节的头枕，坐上去感觉很好。乘务员提前在每个座位上分发了毛毯和耳机。此外，PTV屏幕很大，操作流畅，资源很多还可以保存观看进度以便下次观看。经济舱也有USB接口和电源插座，可以给电子设备充电。小桌板牢固稳定，也提供了单独的杯托。值得一提的是，PTV下方的耳机插口并不是航空上常见的两孔的插口，而是日常跟常见的单孔的插口，意味着乘客自己携带的耳机也可以方便的插入使用。
+
+![入座视角|inline](https://blog.hakubill.tech/img/jp/webp/s2e6/IMG_2341.webp)
+
+## 机上服务
+
+日航的国内线的经济舱并不会提供餐食，只有饮料提供。我还是要了一杯果汁。已经是晚上，所以也看不到太多风景。不过，正如[本季第2集](./posts/japan_s2e2)所说，我可以继续享用快速的Wi-Fi上网。因此飞机上的时间很快也过去了。
+
+## 结束
+
+飞机在预定时间抵到了东京羽田国际机场1号航站楼。本次日航A359体验也到此结束。总的来说，日航的A359舒适度很高，服务水准也很高。虽然没有提供餐食，但是饮料和Wi-Fi都是免费的。这次的飞行体验也很愉快。
+
+---
+
+本集行程：
+
+> - JL522 CTS-HND 1756-1937 A350-900 JA-12XJ 1h41min 821km
