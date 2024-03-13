@@ -6,7 +6,7 @@ description: '搭乘日航A359乘坐日本最繁忙航线札幌新千岁-东京�
 author: 'Bill Haku'
 cover:
     url: 'https://blog.hakubill.tech/img/jp/webp/s2e6/cover.webp'
-    square: 'https://blog.hakubill.tech/img/jp/webp/s2e6/cover.webp'
+    square: 'https://blog.hakubill.tech/img/jp/webp/s2e6/cover_square.webp'
     alt: 'cover'
 tags: ["日本", "回乡记2", "杂谈", "旅游", "飞行", "日本航空JAL"]
 theme: 'light'
