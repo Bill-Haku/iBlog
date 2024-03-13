@@ -8,7 +8,7 @@ cover:
     url: 'https://blog.hakubill.tech/img/jp/webp/s2e5/_DSC2442.webp'
     square: 'https://blog.hakubill.tech/img/jp/webp/s2e5/_DSC2442.webp'
     alt: 'cover'
-tags: ["日本", "圣地巡礼", "动漫", "日本", "回乡记", "樱花庄的宠物女孩", "杂谈", "旅游"]
+tags: ["日本", "圣地巡礼", "动漫", "日本", "回乡记2", "樱花庄的宠物女孩", "杂谈", "旅游"]
 theme: 'light'
 featured: true
 published: true
