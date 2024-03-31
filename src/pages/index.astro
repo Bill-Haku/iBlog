@@ -31,7 +31,7 @@ selectedPosts.sort((a, b) => a.frontmatter.pinRank - b.frontmatter.pinRank)
           // tile-2up
           selectedPosts.slice(1, 5).map((post) => {
             return (
-              <Tile title={post.frontmatter.title} href={post.url} date={post.frontmatter.pubDate} tags={post.frontmatter.tags} cover={post.frontmatter.cover.url} level="2" />
+              <Tile title={post.frontmatter.title} href={post.url} date={post.frontmatter.pubDate} tags={post.frontmatter.tags} cover={post.frontmatter.cover.url} level="3" />
             );
           })
         }
