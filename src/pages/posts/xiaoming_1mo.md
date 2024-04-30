@@ -1,8 +1,8 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '和小明一起走过的四月'
-pubDate: 2024-05-01
-description: '四月不再是你我的谎言。'
+pubDate: 2024-04-30
+description: '四月确实就要结束了。不过还会有很多个四月。'
 author: 'Bill Haku'
 cover:
     url: '/img/xiaoming/IMG_4169.jpg'
