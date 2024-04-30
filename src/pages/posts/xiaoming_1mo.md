@@ -10,7 +10,7 @@ cover:
     alt: 'cover'
 tags: ["杂谈", "人类观察计划", "小明"]
 theme: 'light'
-featured: true
+featured: false
 published: true
 ---
 
@@ -40,7 +40,7 @@ published: true
 
 第二天，小明出cos，上午化妆，下午拍摄，一大群人搞的热火朝天也很辛苦。拍的团片就不由我来发了，可以等正片发布。
 
-再次日，小明下午要上班，上午陪她去了公司，然后去东湖转了一圈，骑车十多公里运动一下，然后去地铁站接她，又去江汉路吃了晚饭逛会街。遇到有卖刮刮乐的买了两张，两个maybe都是为慈善事业贡献40元。
+再次日，小明下午要上班，上午陪她去了公司，然后去东湖转了一圈，骑车十多公里运动一下，然后去地铁站接她，又去江汉路吃了晚饭逛会街。遇到有卖刮刮乐的买了两张，两个maybe最后为慈善事业贡献40元。
 
 ![刮刮乐|inline](https://blog.hakubill.tech/img/xiaoming/IMG_4216.jpg)
 
@@ -51,6 +51,8 @@ published: true
 即使是时常重复的「我喜欢你」，也不会感到厌烦。即使是隔着屏幕的「抱一个」，也会有温暖传来。
 
 ![最喜欢的截屏|inline](https://blog.hakubill.tech/img/xiaoming/IMG_4272.jpg)
+
+多来点。
 
 ---
 
@@ -65,6 +67,8 @@ published: true
 被小明带入坑了最近刚上线的新游《物华弥新》。这是一款以古代文物拟人化为背景的游戏，画风也还算有点好看。正好与成都的一家电信营业厅有联动活动，于是就去打卡，拿了两张自己盖章的明信片给小明带去。
 
 ![物华弥新的明信片|inline](https://blog.hakubill.tech/img/xiaoming/IMG_4273.jpg)
+
+不过联动相比别的二游还是差了些档次，游戏本身亮点也不多。
 
 ---
 
@@ -82,6 +86,12 @@ published: true
 
 ![宫崎骏街道、网红墙](https://blog.hakubill.tech/img/xiaoming/_DSC3265.jpg)
 
-![拍打着礁石的海浪](https://blog.hakubill.tech/img/xiaoming/_DSC3277.jpg)
+![拍打着礁石的海浪|inline](https://blog.hakubill.tech/img/xiaoming/_DSC3277.jpg)
 
-![夕阳下情人坝的灯塔](https://blog.hakubill.tech/img/xiaoming/_DSC3291.jpg)
+![夕阳下情人坝的灯塔|inline](https://blog.hakubill.tech/img/xiaoming/_DSC3291.jpg)
+
+27号一起回到武汉，然后28号早上再在机场分别，回到成都。接着写下这篇文章，记录一下这一个月。
+
+---
+
+四月确实就要结束了。不过还会有很多个四月。
