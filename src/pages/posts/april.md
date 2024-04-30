@@ -2,7 +2,7 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: '四月是谁的谎言'
 pubDate: 2024-04-01
-description: ''
+description: '愿四月不再是你我的谎言。'
 author: 'Bill Haku'
 cover:
     url: '/img/april/shigatsu_cover.jpg'
