@@ -5,8 +5,8 @@ pubDate: 2024-12-31
 description: '2024年终回顾'
 author: 'Bill Haku'
 cover:
-    url: '/img/haku/_DSC5636.jpeg'
-    square: '/img/haku/_DSC5636.jpeg'
+    url: '/img/haku/_DSC5636.jpg'
+    square: '/img/haku/_DSC5636.jpg'
     alt: 'cover'
 tags: ["杂谈", "年终回顾"]
 theme: 'light'
