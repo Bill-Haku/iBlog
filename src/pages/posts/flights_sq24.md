@@ -1,3 +1,4 @@
+---
 layout: '../../layouts/MarkdownPost.astro'
 title: '世界最长航线——SQ24体验全记录'
 pubDate: 2025-02-07
