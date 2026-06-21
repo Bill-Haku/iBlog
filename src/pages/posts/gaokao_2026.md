@@ -5,8 +5,8 @@ pubDate: 2026-06-21
 description: '2026高考作文之本人作文'
 author: 'Bill Haku'
 cover:
-    url: 'https://blog.hakubill.tech/img/haku/manhattan.jpg'
-    square: 'https://blog.hakubill.tech/img/haku/manhattan.jpg'
+    url: 'https://blog.hakubill.tech/img/haku/manhattan.png'
+    square: 'https://blog.hakubill.tech/img/haku/manhattan.png'
     alt: 'cover'
 tags: ["杂谈", "高考", "作文"]
 theme: 'light'
@@ -39,4 +39,4 @@ published: true
 
 高考大多数时候并不会成为击穿你命运的奶酪的那个漏洞。当你站在曼哈顿中城的任意一个相似却又不同的十字路口时，你要选择第几大道？
 
-![曼哈顿的路网](https://blog.hakubill.tech/img/haku/manhattan.jpg "曼哈顿")
+![曼哈顿的路网](https://blog.hakubill.tech/img/haku/manhattan.png "曼哈顿")
